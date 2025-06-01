@@ -4,6 +4,7 @@ import HomeClient from './client';
 
 export default async function Home() {
   // Fetch all abnormalities, then its logs, then the logs' comments from the database using Prisma
+  // TODO: Infinite scrolling or pagination for performance
   const abnormalities = await prisma.abnormalities.findMany({
     include: {
       logs: {
@@ -41,8 +42,7 @@ export default async function Home() {
       {/*
        * Because of React adding server components
        * We split files into client and server components
-       * The short of it is that where we fetch data is separated from where we interact with data
-       * (i.e. Buttons, inputs, etc.)
+       * The short of it is that where we fetch data is separate from where we interact with data
        */}
       <HomeClient abnormalities={abnormalities} />
     </>

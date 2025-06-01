@@ -52,9 +52,9 @@ export default function HomeClient({
       <main className={styles.gallery}>
         {filteredAbnormalities.length > 0 ? (
           // Return the abnormalities that meet this criteria with the Abnormality component
-          filteredAbnormalities.map((abnormality) => {
+          filteredAbnormalities.map((abnormality, index) => {
             return (
-              <Abnormality abnormality={abnormality} key={abnormality.name} />
+              <Abnormality abnormality={abnormality} key={abnormality.id ?? `unknown-${index}`} />
             );
           })
         ) : (
