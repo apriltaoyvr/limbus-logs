@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "a8156f77-93be-4458-aeb6-5e7c05e964dc",
+    "text": "Weren't you always prone to getting mad over the smallest things?",
+    "sinnerId": "ishmael",
+    "logId": "43f4c521-e68d-4a71-83cf-f9dca5165e8f",
+    "order": 0
+  },
+  {
+    "id": "6fcb36c2-59fd-4519-b85f-c3af4f971de7",
+    "text": "Don't piss me off.",
+    "sinnerId": "heathcliff",
+    "logId": "43f4c521-e68d-4a71-83cf-f9dca5165e8f",
+    "order": 1
+  },
+  {
+    "id": "2712c47e-7f4e-4824-bd6c-b3718b371de2",
+    "text": "Those letters are from an ancient language. If Yi Sang's depiction is correct, that plate is almost certainly a calendar.",
+    "sinnerId": "faust",
+    "logId": "80d855d6-efdc-4d9d-8eaa-5eb1875acb13",
+    "order": 0
+  },
+  {
+    "id": "f9040e62-3ecc-4fe3-a562-48af7a78f948",
+    "text": "Dante made the right choice. From what I can see, it seems that those flesh dolls, or \"clay dolls,\" can't be offered up while they're alive. The only other option we have is to sacrifice Sinners.",
+    "sinnerId": "faust",
+    "logId": "3171dfc4-f7d1-47bf-ad42-6d68a137ecf4",
+    "order": 1
+  },
+  {
+    "id": "a1820907-5bb3-461e-a691-059afddbbb28",
+    "text": "I had Yi Sang talk with the recovery staff from After Team for a moment. His psychological corruption seems rather severe. Dante, I think we should refrain from making our observers directly experience these events from now on.",
+    "sinnerId": "faust",
+    "logId": "dbdc1aa0-655b-464b-8021-9ad6794dfb69",
+    "order": 0
+  },
+  {
+    "id": "445080c5-35b8-45fd-a539-149990481aa1",
+    "text": "Um, hello, aren't you forgetting to mention the part where they hug us and belch fire? One of them burnt all my hair.",
+    "sinnerId": "ishmael",
+    "logId": "096415c5-4805-4499-bdf9-5b5cf9cd4d95",
+    "order": 0
+  },
+  {
+    "id": "24b13bb4-8bb1-4c0f-a939-9e0e02973a4d",
+    "text": "Hey Faust! Can't we sell these heads to an antique shop? Don't they look pretty pricey?",
+    "sinnerId": "rodion",
+    "logId": "096415c5-4805-4499-bdf9-5b5cf9cd4d95",
+    "order": 1
+  },
+  {
+    "id": "b87fb62f-1d37-4c7f-bbd4-971b81288b0d",
+    "text": "You made me stand guard for hours while you dissected their bodies, try to be happy with what you got.",
+    "sinnerId": "outis",
+    "logId": "98e45aaa-ca32-4cd0-bd22-d8a79b458a7f",
+    "order": 0
+  },
+  {
+    "id": "1c14d095-6c9d-4eab-94ae-832324e50970",
+    "text": "How disorganized. Were your reports as terrible during your military service?",
+    "sinnerId": "outis",
+    "logId": "f2d81074-d81f-4266-91f2-f13bc48b3fc1",
+    "order": 0
+  },
+  {
+    "id": "1c578c87-9396-46f0-9bbf-6510cc388fc5",
+    "text": "Vergilius instructed us to write these however we wanted. Dante agreed with that, too.",
+    "sinnerId": "faust",
+    "logId": "f2d81074-d81f-4266-91f2-f13bc48b3fc1",
+    "order": 1
+  },
+  {
+    "id": "d2086d80-1b52-4330-ac66-a6ffb3b28912",
+    "text": "…If Executive Manager is fine with it, I won't object.",
+    "sinnerId": "outis",
+    "logId": "f2d81074-d81f-4266-91f2-f13bc48b3fc1",
+    "order": 2
+  },
+  {
+    "id": "0b1c2391-e318-41dc-9d19-b2d0331f6e37",
+    "text": "[A cigarette burn is left on the paper.] S.P.C.",
+    "sinnerId": "ryoshu",
+    "logId": "f2d81074-d81f-4266-91f2-f13bc48b3fc1",
+    "order": 3
+  },
+  {
+    "id": "f02ac8d1-26e2-4994-9d77-d216d118df4c",
+    "text": "Seriously, some petty complaint that was.",
+    "sinnerId": "ishmael",
+    "logId": "f2d81074-d81f-4266-91f2-f13bc48b3fc1",
+    "order": 4
+  },
+  {
+    "id": "afbc5e90-65a1-46e8-9009-dfadde8d8803",
+    "text": "Gregor was struggling to maintain his cool in his writing, so I relieved him of his pen. He didn't have much else to offer in terms of information, anyway.",
+    "sinnerId": "faust",
+    "logId": "d5b952ba-798f-414c-86eb-2e64c9d9dc24",
+    "order": 0
+  },
+  {
+    "id": "033dbeb3-2433-4a12-90f2-d71382db000e",
+    "text": "Those maggots squirmed harder than I expected when I scorched 'em with my cigarette. Does this count as intel?",
+    "sinnerId": "gregor",
+    "logId": "d5b952ba-798f-414c-86eb-2e64c9d9dc24",
+    "order": 1
+  },
+  {
+    "id": "f6097a7e-2659-44c7-87ab-23cb245d60e4",
+    "text": "Umm... Maybe it's a type of automated prosthetic procedure device? A company my father considered buying was… N-Never mind. Forget I said anything.",
+    "sinnerId": "sinclair",
+    "logId": "c90cdc2a-6f53-4229-adf8-1f6594aaee88",
+    "order": 0
+  },
+  {
+    "id": "29969ae5-f8ea-4903-9df2-acc30b203a1f",
+    "text": "Abnormalities are not real devices. I recommend against trying to make ties with existing things.",
+    "sinnerId": "faust",
+    "logId": "c90cdc2a-6f53-4229-adf8-1f6594aaee88",
+    "order": 1
+  },
+  {
+    "id": "06e75ba1-d4df-4d1d-8226-feee03d5d2cd",
+    "text": "As I repeatedly assert, Abnormalities are entities of their own category. You shouldn't construe them with the City's standards, Ishmael.",
+    "sinnerId": "faust",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 0
+  },
+  {
+    "id": "38df68fa-d865-44c5-b7e3-6bbe58b1def3",
+    "text": "And yet Abnormalities physically exist in this realm. If the properties of a thing aren't determined by the laws of the space it exists in, can it truly be said to exist?",
+    "sinnerId": "meursault",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 1
+  },
+  {
+    "id": "f9ba23d3-662c-4848-ac80-10920906f401",
+    "text": "The hell are you yapping on about?",
+    "sinnerId": "heathcliff",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 2
+  },
+  {
+    "id": "3781108d-c3ca-45f7-b073-1793870c4596",
+    "text": "Why the hell did you put me in instead of those masked blokes? You damned clockhead, I'll #%^&@ [The rest is neatly censored with a correction tape.]",
+    "sinnerId": "heathcliff",
+    "logId": "3171dfc4-f7d1-47bf-ad42-6d68a137ecf4",
+    "order": 0
+  },
+  {
+    "id": "f002bf33-9461-4402-93b5-9af96192611d",
+    "text": "And why does that have to be me @(##$[The rest is neatly censored with a correction tape.]",
+    "sinnerId": "heathcliff",
+    "logId": "3171dfc4-f7d1-47bf-ad42-6d68a137ecf4",
+    "order": 2
+  },
+  {
+    "id": "c79ff84e-d0d4-46d5-8be8-7e6b3cc54106",
+    "text": "I don't believe it's necessary for you to understand, Heathcliff.",
+    "sinnerId": "faust",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 3
+  },
+  {
+    "id": "71854c5a-cd1e-4839-8d58-8e6751464533",
+    "text": "Huh? Is my name written here somewhere? How'd you know it was me?",
+    "sinnerId": "heathcliff",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 4
+  },
+  {
+    "id": "5dde5b49-d468-48b2-81c0-a0d11fe732d1",
+    "text": "…Funny. [A cigarette burn is left on the paper.]",
+    "sinnerId": "ryoshu",
+    "logId": "fb4e0bb4-f4e6-4707-b8c8-2934f90e7b68",
+    "order": 5
+  },
+  {
+    "id": "baffe0a3-2d10-448f-ae8a-65e845aa38e9",
+    "text": "Do not question the physics of Abnormalities.",
+    "sinnerId": "faust",
+    "logId": "c95a9311-f541-47ef-91b5-a1df7ed58ace",
+    "order": 0
+  },
+  {
+    "id": "4d505e82-ad2c-4957-aadf-0b539e760d1c",
+    "text": "Damn, that's awful dry.",
+    "sinnerId": "heathcliff",
+    "logId": "599ddbca-e2f8-493b-ba71-48d39141e438",
+    "order": 0
+  },
+  {
+    "id": "29571607-9956-4aab-a0be-166b207a6c8c",
+    "text": "I got into a panic and ripped them haphazardly, but it wasn't actually that tricky.",
+    "sinnerId": "heathcliff",
+    "logId": "b8b82f9b-f58f-4be0-8042-fc9bcdeffc28",
+    "order": 0
+  },
+  {
+    "id": "b7036132-ebb4-4ae7-9705-034395880293",
+    "text": "I was careful about it, worried that it might go wrong… But then the ribbon expanded all of a sudden and wrapped Hong Lu. Because of me, he…",
+    "sinnerId": "sinclair",
+    "logId": "b8b82f9b-f58f-4be0-8042-fc9bcdeffc28",
+    "order": 1
+  },
+  {
+    "id": "d0ebc6c6-754c-48c5-9b9d-afb1c705b85d",
+    "text": "I'm all okay, Sinclair~ It was a unique and fun experience!",
+    "sinnerId": "hong_lu",
+    "logId": "b8b82f9b-f58f-4be0-8042-fc9bcdeffc28",
+    "order": 2
+  },
+  {
+    "id": "c900faaa-9952-4417-bbad-7640b5e58b4d",
+    "text": "To conclude in her stead, Sinclair was properly restored by the manager later.",
+    "sinnerId": "faust",
+    "logId": "1db30b6b-49b0-42cf-810a-0b45b0bf4c6c",
+    "order": 0
+  },
+  {
+    "id": "793f16cc-a986-4af8-8443-98367d716ea0",
+    "text": "…I don't know where to start. I don't necessarily love my arm, but don't you think comparing it to that clay monster is going too far?",
+    "sinnerId": "gregor",
+    "logId": "d6b48f99-4bfd-4943-8880-cc4447343e2a",
+    "order": 0
+  },
+  {
+    "id": "a4ef6d99-c42d-4352-8d6d-89d9c221a2a2",
+    "text": "Got a problem, say it to my face.",
+    "sinnerId": "heathcliff",
+    "logId": "d6b48f99-4bfd-4943-8880-cc4447343e2a",
+    "order": 1
+  },
+  {
+    "id": "40fe1ec4-bbfc-4e84-a1d6-33ef0f7c34d9",
+    "text": "Heathcliff. Please refrain from causing trouble. Also, profanities have no place in observation logs.",
+    "sinnerId": "faust",
+    "logId": "d6b48f99-4bfd-4943-8880-cc4447343e2a",
+    "order": 2
+  },
+  {
+    "id": "ea0af747-6567-4576-bb03-7e0f4e73c765",
+    "text": "You're forcing me to write all this rubbish, and I can't even write however I like? Get someone else, then.",
+    "sinnerId": "heathcliff",
+    "logId": "d6b48f99-4bfd-4943-8880-cc4447343e2a",
+    "order": 3
+  },
+  {
+    "id": "838d9be6-827d-4e07-ace5-c1809dfae744",
+    "text": "What does a C.F. taste like? Is it artistic? You piqued my interest.",
+    "sinnerId": "ryoshu",
+    "logId": "08bb1b4d-6ce4-402a-a1d9-e9ca2a89017b",
+    "order": 0
+  },
+  {
+    "id": "eebac68b-3cf8-4634-97b4-d55ceecdabe5",
+    "text": "That's just a common Backstreets phrase… Meaning something absurd.",
+    "sinnerId": "ishmael",
+    "logId": "08bb1b4d-6ce4-402a-a1d9-e9ca2a89017b",
+    "order": 1
+  },
+  {
+    "id": "fb9b0913-9237-4da6-87f9-ca035a8904d5",
+    "text": "I know. J.K.",
+    "sinnerId": "ryoshu",
+    "logId": "08bb1b4d-6ce4-402a-a1d9-e9ca2a89017b",
+    "order": 2
+  },
+  {
+    "id": "e026b4d2-017d-4c8f-84fd-1b7075d0fd43",
+    "text": "While I'm sure I don't need to remind you, Dante, you should be selective about approving requests from Sinners.",
+    "sinnerId": "faust",
+    "logId": "e840a63a-b459-45bb-a062-e210e95b0aad",
+    "order": 0
+  },
+  {
+    "id": "c71f6f53-7a6b-4e36-ab5b-b3ecda384748",
+    "text": "Are you underestimating our Executive Manager? If they ask that you reposition yourself, you will do so, front or back. Do you understand?",
+    "sinnerId": "outis",
+    "logId": "e840a63a-b459-45bb-a062-e210e95b0aad",
+    "order": 1
+  },
+  {
+    "id": "0e121c69-128a-467f-95eb-3c9ae0843981",
+    "text": "Dost thou speak the truth when you say creatures like that inhabit the Outskirts?!",
+    "sinnerId": "don_quixote",
+    "logId": "3a818691-bde8-4cb3-9408-6b6a30270ea3",
+    "order": 0
+  },
+  {
+    "id": "4d650af2-a054-4556-8351-273811df2174",
+    "text": "No, you won't find things like that.",
+    "sinnerId": "ishmael",
+    "logId": "3a818691-bde8-4cb3-9408-6b6a30270ea3",
+    "order": 1
+  },
+  {
+    "id": "d2e54dbc-9ea2-48d4-87a3-a707e6231db7",
+    "text": "Well, I never… Then for what reason didst thou use such a description?",
+    "sinnerId": "don_quixote",
+    "logId": "3a818691-bde8-4cb3-9408-6b6a30270ea3",
+    "order": 2
+  },
+  {
+    "id": "ceab6b71-3817-4511-a0f1-bfdc8ce51495",
+    "text": "There were worse things.",
+    "sinnerId": "ishmael",
+    "logId": "3a818691-bde8-4cb3-9408-6b6a30270ea3",
+    "order": 3
+  },
+  {
+    "id": "4f24a4d5-f24d-495d-ae10-56c99597dc6e",
+    "text": "None of this helps.",
+    "sinnerId": "heathcliff",
+    "logId": "803d60cc-17ad-4824-95d4-39e35ca924e3",
+    "order": 0
+  },
+  {
+    "id": "324f84e4-c3c8-4e5d-b05a-23129d002ac7",
+    "text": "You've got a good mindset. I like that.",
+    "sinnerId": "heathcliff",
+    "logId": "e0392eb3-48e9-4787-9538-0e400b28e78f",
+    "order": 0
+  },
+  {
+    "id": "a6f0a607-8f08-4be8-97ad-416f74127844",
+    "text": "While the willingness to fight is admirable, this log is for observations rather than decrees of your determination.",
+    "sinnerId": "faust",
+    "logId": "e0392eb3-48e9-4787-9538-0e400b28e78f",
+    "order": 1
+  },
+  {
+    "id": "5d49f87a-39d7-45ab-bbd7-9f5668138bff",
+    "text": "Sorry… I'll do it right next time.",
+    "sinnerId": "sinclair",
+    "logId": "e0392eb3-48e9-4787-9538-0e400b28e78f",
+    "order": 2
+  },
+  {
+    "id": "798b2b41-dbb0-482f-9a0f-eb435d134919",
+    "text": "Is that the reason you swung your mace against the orders? I find it hardly convincing.",
+    "sinnerId": "outis",
+    "logId": "4e9efbb0-17a5-46a7-a772-20b1d48b1009",
+    "order": 0
+  },
+  {
+    "id": "14f250d4-e04a-467f-b0d2-d2d96d043bc3",
+    "text": "Aw, darn. What a way to rain on my parade.",
+    "sinnerId": "rodion",
+    "logId": "5f021550-4832-41a1-a2b6-45999b1b7c50",
+    "order": 3
+  },
+  {
+    "id": "f9c05551-6da8-401c-bf56-8aba4c44b57d",
+    "text": "Nah, I'm with her. I'd snap too if I kept listening to that bloody croak. 'Sides, we're supposed to beat those Abnormalities or whatever until they're eggs, aye? What's the problem here?",
+    "sinnerId": "heathcliff",
+    "logId": "4e9efbb0-17a5-46a7-a772-20b1d48b1009",
+    "order": 1
+  },
+  {
+    "id": "170c2714-0709-43da-abe7-229c424bef45",
+    "text": "I, I thought so, too… I agreed it would've been better off to reduce it to an egg quickly…",
+    "sinnerId": "sinclair",
+    "logId": "4e9efbb0-17a5-46a7-a772-20b1d48b1009",
+    "order": 2
+  },
+  {
+    "id": "fb9c2e63-94ab-41eb-aa4d-39f5fa8017c0",
+    "text": "What's clockface on about now. They're ticking an awful lot.",
+    "sinnerId": "heathcliff",
+    "logId": "4e9efbb0-17a5-46a7-a772-20b1d48b1009",
+    "order": 3
+  },
+  {
+    "id": "1ad16912-4f62-473c-8290-03e40630129e",
+    "text": "…Executive Manager asks for some respect for salvaging you tools after you got yourselves killed in an idiotic charge.",
+    "sinnerId": "outis",
+    "logId": "4e9efbb0-17a5-46a7-a772-20b1d48b1009",
+    "order": 4
+  },
+  {
+    "id": "cb2bf198-cd7e-41dd-a0ac-84c7f664d2a9",
+    "text": "Talk about a weirdo. It's not really tough at all, but it makes me feel all weak and drowsy~",
+    "sinnerId": "rodion",
+    "logId": "99743525-ba12-4b09-8f5d-30853e520ce1",
+    "order": 0
+  },
+  {
+    "id": "e980cb88-1a72-421f-8866-cdaf157cf532",
+    "text": "Really? I, I felt a little different… Doesn't it make you more gloomy than anything?",
+    "sinnerId": "sinclair",
+    "logId": "99743525-ba12-4b09-8f5d-30853e520ce1",
+    "order": 1
+  },
+  {
+    "id": "a3addea9-7ff7-4a66-a18e-25fd209e31d1",
+    "text": "Huh? How?",
+    "sinnerId": "rodion",
+    "logId": "99743525-ba12-4b09-8f5d-30853e520ce1",
+    "order": 2
+  },
+  {
+    "id": "68ca2adf-056e-4108-92f2-26df254415cc",
+    "text": "Like… Past memories popping up, or… Wanting to give up and die…",
+    "sinnerId": "sinclair",
+    "logId": "99743525-ba12-4b09-8f5d-30853e520ce1",
+    "order": 3
+  },
+  {
+    "id": "9be5ebc3-a52f-4fa6-a250-9521115b88f4",
+    "text": "…Um, Faustie? Looks like our kiddie needs some mental aid?",
+    "sinnerId": "rodion",
+    "logId": "99743525-ba12-4b09-8f5d-30853e520ce1",
+    "order": 4
+  },
+  {
+    "id": "ce731151-a147-4e9f-b078-ea2f3f8ee3e6",
+    "text": "Old fart.",
+    "sinnerId": "ryoshu",
+    "logId": "26196e32-4c51-4398-8905-e2d1c069e64e",
+    "order": 0
+  },
+  {
+    "id": "72575a27-470c-40b8-8d2b-abe564534c8c",
+    "text": "…Who wrote this?",
+    "sinnerId": "gregor",
+    "logId": "26196e32-4c51-4398-8905-e2d1c069e64e",
+    "order": 1
+  },
+  {
+    "id": "2ae6dc1b-ab56-47d8-b758-3ddf7b6b2fc9",
+    "text": "Those cleaners found it first? I thought it was their job to catch 'em and put 'em away?",
+    "sinnerId": "heathcliff",
+    "logId": "dba8b061-c150-4543-b0ad-c7a04e7bd2dd",
+    "order": 0
+  },
+  {
+    "id": "c3d43f69-dd7d-4e01-984e-9685ebbb8d0e",
+    "text": "As explained before, we stand between multiple different possibilities via refractions. After Team may have been late in this possibility, or even nonexistent..",
+    "sinnerId": "faust",
+    "logId": "dba8b061-c150-4543-b0ad-c7a04e7bd2dd",
+    "order": 1
+  },
+  {
+    "id": "6ad42e03-be4d-4547-89e5-d51e835f6809",
+    "text": "(A writing seems to have been scribbled out with a pen.) Alright, I got that loud and clear..",
+    "sinnerId": "heathcliff",
+    "logId": "dba8b061-c150-4543-b0ad-c7a04e7bd2dd",
+    "order": 2
+  },
+  {
+    "id": "507f7336-0014-4135-a37a-eb50c570f8c7",
+    "text": "Someone is unconvincing.",
+    "sinnerId": "outis",
+    "logId": "dba8b061-c150-4543-b0ad-c7a04e7bd2dd",
+    "order": 3
+  },
+  {
+    "id": "51dda03c-8b42-484f-afdd-a093544b4bb6",
+    "text": "Wait, wait. You forgot that weird ring.",
+    "sinnerId": "gregor",
+    "logId": "9aad7d46-45ee-405f-87a0-29c92c7a7502",
+    "order": 0
+  },
+  {
+    "id": "56e97e50-93c3-4346-a178-33ea0ecbd8c0",
+    "text": "It…gives a strange feeling. I don't know why it comes to us, but when it sticks to the back, it feels...strange. Like a pressure is weighing down on the mind….",
+    "sinnerId": "sinclair",
+    "logId": "9aad7d46-45ee-405f-87a0-29c92c7a7502",
+    "order": 1
+  },
+  {
+    "id": "fe76f203-9dc1-4585-a623-e8601301a242",
+    "text": "You had the time to feel all that? As for me, the hit I took while the ring was attached to me cut me in half by the waist. I can almost still feel it even now..",
+    "sinnerId": "ishmael",
+    "logId": "9aad7d46-45ee-405f-87a0-29c92c7a7502",
+    "order": 2
+  },
+  {
+    "id": "d93e806e-0c4f-4bc6-986c-3fc4e503a557",
+    "text": "Really…? I, I don't think I got hurt that bad",
+    "sinnerId": "sinclair",
+    "logId": "9aad7d46-45ee-405f-87a0-29c92c7a7502",
+    "order": 3
+  },
+  {
+    "id": "abea1470-df39-4385-8740-0272f7fde9f0",
+    "text": "Hm. That does remind me of the occasion when the airborne ring returned to me at one moment. It may be the case that there is a rule behind its movement.",
+    "sinnerId": "yi_sang",
+    "logId": "9aad7d46-45ee-405f-87a0-29c92c7a7502",
+    "order": 4
+  },
+  {
+    "id": "21fe7796-d367-4476-8563-5f02de31bef8",
+    "text": "It almost looked angry, the way it moved. I guess… It was lashing out at its minions for failing to protect it?",
+    "sinnerId": "ishmael",
+    "logId": "90558296-8f9a-4125-a6eb-7ccc1622a8c1",
+    "order": 0
+  },
+  {
+    "id": "12672495-5a98-4e94-b5e7-b31fc0ce8d2a",
+    "text": "To think it would punish its soldiers on the front lines for errors in the operation. It's hardly surprising that a floating statue makes an incompetent commander.",
+    "sinnerId": "outis",
+    "logId": "90558296-8f9a-4125-a6eb-7ccc1622a8c1",
+    "order": 1
+  },
+  {
+    "id": "d3830704-6d07-4ecf-9020-bc01383a5f76",
+    "text": "Wait a minute, is that why I saw you mumbling sometimes…? You…took a bite out of 'em…?",
+    "sinnerId": "gregor",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 0
+  },
+  {
+    "id": "7a61d588-84cc-4ef7-9b01-8a44b8ae8152",
+    "text": "You…didn't actually eat the raw chicken meat, did you?",
+    "sinnerId": "sinclair",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 1
+  },
+  {
+    "id": "f803ac2f-9635-494f-b672-885e09d7b24c",
+    "text": "Poultry may cause infection when consumed uncooked. Please refrain from adding unnecessary strain to the manager outside of battle wounds.",
+    "sinnerId": "faust",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 2
+  },
+  {
+    "id": "a52a68ee-f77a-4db1-82c5-87c4ebdc7461",
+    "text": "Oi! Don Quixote! Don't got anything to say about this?",
+    "sinnerId": "heathcliff",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 3
+  },
+  {
+    "id": "2a107e87-60ba-42a9-87dd-de6f2bcbdfa1",
+    "text": "She must think we will not recognize that this log is hers if she doesn't confirm it.",
+    "sinnerId": "outis",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 4
+  },
+  {
+    "id": "1752effa-28a9-4801-a4f1-7836b439af0c",
+    "text": "Come on, she can't possibly have her head in the sand like that. Who do you think she is, an ostrich?",
+    "sinnerId": "ishmael",
+    "logId": "350d74dd-6646-4d0f-a8b0-a789b32cf306",
+    "order": 5
+  },
+  {
+    "id": "877a7b75-4e76-45da-9e94-20de41b4bcf9",
+    "text": "That's one faithful lieutenant…",
+    "sinnerId": "ishmael",
+    "logId": "c493c580-5182-43a9-8202-10772d07e7c7",
+    "order": 0
+  },
+  {
+    "id": "20a8c456-f681-4c17-b31b-754775cecd3d",
+    "text": "You think Clockface can make heads or tails out of your military jumble?",
+    "sinnerId": "heathcliff",
+    "logId": "3ec77f3a-457f-4cd4-a045-53a329e802dd",
+    "order": 0
+  },
+  {
+    "id": "af80301e-b7e8-4659-b510-64389cdabb62",
+    "text": "I have already given an oral explanation to the Executive Manager. Also, do not use such degradatory titles to refer to them.",
+    "sinnerId": "outis",
+    "logId": "3ec77f3a-457f-4cd4-a045-53a329e802dd",
+    "order": 1
+  },
+  {
+    "id": "13f41601-c3a7-4bf3-ab87-72931934d1f8",
+    "text": "That's one faithful lieutenant…",
+    "sinnerId": "ishmael",
+    "logId": "1c24bc75-7dff-4a1f-bfd6-227affd6052d",
+    "order": 0
+  },
+  {
+    "id": "6421fb79-07e7-448a-a2ad-4c17490ea0c8",
+    "text": "he document seems efficient enough. Faust is satisfied.",
+    "sinnerId": "faust",
+    "logId": "1c24bc75-7dff-4a1f-bfd6-227affd6052d",
+    "order": 1
+  },
+  {
+    "id": "5b71b348-341c-4d81-bcca-6f9b4eea8dba",
+    "text": "You think Clockface can make heads or tails out of your military jumble?",
+    "sinnerId": "heathcliff",
+    "logId": "086fab7a-f50b-4e47-bd17-8df6060e33f4",
+    "order": 0
+  },
+  {
+    "id": "be6e8d37-80b2-4ea6-b51c-86a623c5d519",
+    "text": "I have already given an oral explanation to the Executive Manager. Also, do not use such degradatory titles to refer to them.",
+    "sinnerId": "outis",
+    "logId": "086fab7a-f50b-4e47-bd17-8df6060e33f4",
+    "order": 1
+  },
+  {
+    "id": "be354903-c6af-499e-8461-8bfa851138fe",
+    "text": "Aah… It suffered for such a long time… Unable to do anything about the raging thirst, the flesh endlessly burning and searing…",
+    "sinnerId": "sinclair",
+    "logId": "e88f69db-c3a3-41b9-8602-d79e0cab9328",
+    "order": 0
+  },
+  {
+    "id": "e14a8867-a6ca-4bf6-9231-975fa3e39726",
+    "text": "Oi, kid's still messed up.",
+    "sinnerId": "heathcliff",
+    "logId": "e88f69db-c3a3-41b9-8602-d79e0cab9328",
+    "order": 1
+  },
+  {
+    "id": "7afa38da-9e1e-44dd-9157-1ea3a8b72bf1",
+    "text": "Faust will take care of it.",
+    "sinnerId": "faust",
+    "logId": "e88f69db-c3a3-41b9-8602-d79e0cab9328",
+    "order": 2
+  },
+  {
+    "id": "b1583e44-07a2-4bb8-bcbc-bb9c877cbb8a",
+    "text": "Hmm... Was it that foul? As for me, the smell of those... jelly-like pieces bouncing off with each attack was pretty alright.",
+    "sinnerId": "sinclair",
+    "logId": "fc6d270e-1126-4d7c-b24e-b6071e54ec89",
+    "order": 0
+  },
+  {
+    "id": "0a3154ef-86ea-4974-b3f1-452581b056bd",
+    "text": "It stimulated me. (Cigarette ash seeped into this segment of the note.)",
+    "sinnerId": "ryoshu",
+    "logId": "fc6d270e-1126-4d7c-b24e-b6071e54ec89",
+    "order": 1
+  },
+  {
+    "id": "a792115f-d07d-47dc-a04a-e242fd27ed0f",
+    "text": "It had strengthening properties and provided an overall mental uplift.",
+    "sinnerId": "meursault",
+    "logId": "fc6d270e-1126-4d7c-b24e-b6071e54ec89",
+    "order": 2
+  },
+  {
+    "id": "e2f73163-6c05-4c62-9f90-6ce8e7934db0",
+    "text": "Is she drunk?",
+    "sinnerId": "heathcliff",
+    "logId": "58950b96-0223-4431-8493-753bc0124ab0",
+    "order": 0
+  },
+  {
+    "id": "5c51551a-d168-4031-8321-ea64b1ba9d66",
+    "text": "Impossible. There was no situation in which alcohol could have been ingested.",
+    "sinnerId": "outis",
+    "logId": "58950b96-0223-4431-8493-753bc0124ab0",
+    "order": 1
+  },
+  {
+    "id": "3b2167c5-f591-4404-a70a-9b5e1bbdb0ff",
+    "text": "...RIght! W-When we were fighting the Abnormality, didn't she break a huge cup or something like that? I think she's been like this since then...",
+    "sinnerId": "sinclair",
+    "logId": "58950b96-0223-4431-8493-753bc0124ab0",
+    "order": 2
+  },
+  {
+    "id": "4522a5ca-e5b9-4a82-bb5a-a65d7da44dc4",
+    "text": "Ah. Now that you mention it, I do remember that fatso dodging her axe and causing it to smash into a glass up.",
+    "sinnerId": "heathcliff",
+    "logId": "58950b96-0223-4431-8493-753bc0124ab0",
+    "order": 3
+  },
+  {
+    "id": "fd66ed0e-de73-4668-adef-ed016f29e00a",
+    "text": "If you were just a little faster to grasp it, you certainly would have been.",
+    "sinnerId": "yi_sang",
+    "logId": "11483446-6c42-4029-aa8c-5a7f1715b7e1",
+    "order": 0
+  },
+  {
+    "id": "1593973f-8717-40ce-ae41-6d6ec0b7c71d",
+    "text": "You just gotta say yes at times like this…",
+    "sinnerId": "sinclair",
+    "logId": "11483446-6c42-4029-aa8c-5a7f1715b7e1",
+    "order": 1
+  },
+  {
+    "id": "a2d1c91f-50b3-42c7-bdce-84d39dc5df74",
+    "text": "That's something only a thug would say. You really are crude.",
+    "sinnerId": "ishmael",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 0
+  },
+  {
+    "id": "a6eb45a0-63b6-41e1-9c25-43c52ec875c6",
+    "text": "...Huh? How's he holding off his anger when that comment's right up there?",
+    "sinnerId": "gregor",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 1
+  },
+  {
+    "id": "d681b945-8937-4297-835d-276c04d54174",
+    "text": "Faust deliberately prevented him from looking at this. It would have been a waste to fill the space with useless information.",
+    "sinnerId": "faust",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 2
+  },
+  {
+    "id": "bf028a53-1dac-4bdd-b28f-139fe0f671b2",
+    "text": "That's our wise bud.",
+    "sinnerId": "gregor",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 3
+  },
+  {
+    "id": "7afe6b9a-2bad-4051-abfa-0f5125a39381",
+    "text": "By the way... I think I felt myself feeling stronger with more talismans on me, too. Even if they didn't annoy me or make me feel anything.",
+    "sinnerId": "sinclair",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 4
+  },
+  {
+    "id": "c429ea4b-f5fd-4604-b0d5-0e325bbf20d0",
+    "text": "In that case... The talismans themselves might have some kind of effect. What if we tried attaching a lot of them on purpose?",
+    "sinnerId": "ishmael",
+    "logId": "ab4a0f3f-ca03-4869-9747-ef832ff3daa6",
+    "order": 5
+  },
+  {
+    "id": "807cac84-7ad7-4592-b917-70ad724b9bea",
+    "text": "Correction: the Abnormality returned to its ovate form. No experimental activities such as it actually turning into a pile of firewood or being lit on fire took place.",
+    "sinnerId": "faust",
+    "logId": "7f5fe4fd-53d7-47b6-a8b1-c2d436ca370b",
+    "order": 0
+  },
+  {
+    "id": "44db5e26-55b2-43a2-9bb9-15693caf1bd5",
+    "text": "Sinclar, what you're experiencing is simple loss of sanity during battle. Do not let the Abnormality influence you.",
+    "sinnerId": "faust",
+    "logId": "17ac7a3b-c5d2-4ae5-a5e6-8a45798ad93c",
+    "order": 0
+  },
+  {
+    "id": "f213c6ae-e0b5-465a-a92d-9f3474d0bc75",
+    "text": "But... the fox feels different from the Abnormalities we've fought... I'm sure it wasn't always hostile...",
+    "sinnerId": "sinclair",
+    "logId": "17ac7a3b-c5d2-4ae5-a5e6-8a45798ad93c",
+    "order": 1
+  },
+  {
+    "id": "2312b921-6066-416b-b321-7bdf18bd5147",
+    "text": "Do not refer to it as a fox or a dog. It's nothing more than an Abnormality. You mustn't confuse it for an animal you can find in the City.",
+    "sinnerId": "faust",
+    "logId": "17ac7a3b-c5d2-4ae5-a5e6-8a45798ad93c",
+    "order": 2
+  },
+  {
+    "id": "ec79ae51-acfc-4eeb-9145-a4dd22652c56",
+    "text": "Get over it, you think that fake fairy with a fat jelly bod was any easier to deal with? All we gotta do is fight and sleep as we're told. You'll end up dead trying to care about nonsense!",
+    "sinnerId": "heathcliff",
+    "logId": "17ac7a3b-c5d2-4ae5-a5e6-8a45798ad93c",
+    "order": 3
+  },
+  {
+    "id": "5ab9a7ae-df34-45a2-bd25-d29f63949d38",
+    "text": "Didn't have a choice here. Seemed like something he could only snap out of after dying. (Trails of blood can be seen on the log.)",
+    "sinnerId": "heathcliff",
+    "logId": "1ddeb9b1-a567-4ccb-830d-f8ce63be3163",
+    "order": 0
+  },
+  {
+    "id": "5b03e387-8a77-41f2-88fa-f47c58012dda",
+    "text": "Although the method was rather extreme... It most certainly wasn't a condition that could be resolved in a short time otherwise.",
+    "sinnerId": "faust",
+    "logId": "1ddeb9b1-a567-4ccb-830d-f8ce63be3163",
+    "order": 1
+  },
+  {
+    "id": "c7efcecf-0572-4f92-9cfd-4057363b5e84",
+    "text": "Centipede… To me, it looked more like a snake. It coiled up at kept glaring.",
+    "sinnerId": "heathcliff",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 0
+  },
+  {
+    "id": "1962b634-3cf9-4427-a5d3-1013318b5992",
+    "text": "Fair point, but… Did snakes have legs where you lived? You can't call that one a snake.",
+    "sinnerId": "gregor",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 1
+  },
+  {
+    "id": "e3be7994-3bb9-44ce-ac40-95224d2ed29c",
+    "text": "They do, though?",
+    "sinnerId": "heathcliff",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 2
+  },
+  {
+    "id": "e146c547-23a8-42e0-bdbb-2ae1518730ec",
+    "text": "There are legged snakes.",
+    "sinnerId": "ishmael",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 3
+  },
+  {
+    "id": "c59d78f8-2347-46e0-850e-80294e6c57ff",
+    "text": "Oh, I saw 'em, too.",
+    "sinnerId": "outis",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 4
+  },
+  {
+    "id": "cf389da6-93ae-4578-9273-d81eb7d9b20a",
+    "text": "...Am I the odd one out?",
+    "sinnerId": "gregor",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 5
+  },
+  {
+    "id": "b607780e-bc9d-4a50-ae62-06d28f109284",
+    "text": "You're so funny, darling~",
+    "sinnerId": "rodion",
+    "logId": "1e695a11-46dc-4be9-a9a9-40cb07fec9f2",
+    "order": 6
+  },
+  {
+    "id": "6ad6badb-f39a-4eac-a4a0-bafb8c48f350",
+    "text": "Excuse me, Gregor. I trusted you and charged ahead only to be fried to char. What do you have to say about this?",
+    "sinnerId": "ishmael",
+    "logId": "9ed630ee-3e82-4173-b191-cea38aa445cb",
+    "order": 0
+  },
+  {
+    "id": "6414503f-5d4a-45a8-b92e-f5183664b01b",
+    "text": "I can attest to that. Her discolored hair resembled a spoiled broccoli. I would eat no such thing as an orange broccoli even in battle.",
+    "sinnerId": "outis",
+    "logId": "9ed630ee-3e82-4173-b191-cea38aa445cb",
+    "order": 1
+  },
+  {
+    "id": "aac088ff-3b22-43b9-aee2-190699306302",
+    "text": "...If you have a problem with my hair, say it directly.",
+    "sinnerId": "ishmael",
+    "logId": "9ed630ee-3e82-4173-b191-cea38aa445cb",
+    "order": 2
+  },
+  {
+    "id": "2a222c2c-a11f-4d92-8b31-9011fe32b228",
+    "text": "W-Whoa, there... Cool it down. Look, I'm sorry about what happened... Who could have thought breaking the head would make electricity flow througb its whole body?",
+    "sinnerId": "gregor",
+    "logId": "9ed630ee-3e82-4173-b191-cea38aa445cb",
+    "order": 3
+  },
+  {
+    "id": "ac03f0ab-6a97-4ffa-81bb-b8553031fc46",
+    "text": "The document seems efficient enough. Faust is satisfied.",
+    "sinnerId": "faust",
+    "logId": "c493c580-5182-43a9-8202-10772d07e7c7",
+    "order": 1
+  },
+  {
+    "id": "956c6667-3309-4a2b-be91-6808f8a0ca57",
+    "text": "Wow… I guess you’re not a veteran for nothing, huh? Didn’t know you were this good~",
+    "sinnerId": "rodion",
+    "logId": "55735241-9238-44f5-9478-55f47722562f",
+    "order": 0
+  },
+  {
+    "id": "6a05cf2f-7644-4ef3-91ca-05297a458f0b",
+    "text": "I’ve both encountered and installed many similar traps. Even a civilian could identify such an obvious trap if they have even a modicum of perceptiveness.",
+    "sinnerId": "outis",
+    "logId": "55735241-9238-44f5-9478-55f47722562f",
+    "order": 1
+  },
+  {
+    "id": "527db846-14f7-4ffa-850b-86cbad807424",
+    "text": "Right~? Even a MODICUM(This word appears to have been bolded for emphasis) of perceptiveness, that is~",
+    "sinnerId": "rodion",
+    "logId": "55735241-9238-44f5-9478-55f47722562f",
+    "order": 2
+  },
+  {
+    "id": "c7614cec-d53b-4616-83e7-3eadcce85c5e",
+    "text": "Seriously, Heathcliff! Why the hell would you walk out there AFTER we specifically told you not to? AGAIN?",
+    "sinnerId": "ishmael",
+    "logId": "4716d682-9296-4522-b605-8a0c5ea2c99e",
+    "order": 0
+  },
+  {
+    "id": "2289a0d4-9060-4f78-8405-92cc0b319524",
+    "text": "Haah, dammit… I don’t know. Something about how that happened was uncanny. It’s not like I wanted to walk there…",
+    "sinnerId": "heathcliff",
+    "logId": "4716d682-9296-4522-b605-8a0c5ea2c99e",
+    "order": 1
+  },
+  {
+    "id": "645e4ce1-d4e1-43c8-a380-d4ca93fd5806",
+    "text": " …Shut up.",
+    "sinnerId": "heathcliff",
+    "logId": "55735241-9238-44f5-9478-55f47722562f",
+    "order": 3
+  },
+  {
+    "id": "8adab4e9-bb97-475e-9259-550a3496091e",
+    "text": "It appears that the fairy has the power to charm its victims. Perhaps it would be preferable that we focus our attacks on the fairy in our next encounter.",
+    "sinnerId": "faust",
+    "logId": "4716d682-9296-4522-b605-8a0c5ea2c99e",
+    "order": 2
+  },
+  {
+    "id": "a24bf72e-06c9-4011-b13a-2463ef4c2f6a",
+    "text": "…? We’re letting the lass write this report? Are we okay with this?",
+    "sinnerId": "heathcliff",
+    "logId": "e2f681f7-0cb2-434d-8848-5a038bc943ee",
+    "order": 0
+  },
+  {
+    "id": "3c3f4538-2f85-4e21-8449-2972a48f2e0d",
+    "text": "I doubt she will attempt to ingest this entity. This will not be like the incident with the chickens. There is no need for concern.",
+    "sinnerId": "faust",
+    "logId": "e2f681f7-0cb2-434d-8848-5a038bc943ee",
+    "order": 1
+  },
+  {
+    "id": "babb019f-79e4-40ca-ab79-ec9d1cfaebc4",
+    "text": "I think the numbers represent the time we took to get here… The number on the machine was the same as the one we saw on the train.",
+    "sinnerId": "sinclair",
+    "logId": "e39646d9-92bf-4179-97df-8aa7e4664d94",
+    "order": 0
+  },
+  {
+    "id": "8b3d9665-19cf-48c3-9815-694faf59c5f7",
+    "text": "Interesting… We’ll have to hurry if we want to get out of this station.",
+    "sinnerId": "ishmael",
+    "logId": "e39646d9-92bf-4179-97df-8aa7e4664d94",
+    "order": 1
+  },
+  {
+    "id": "31552cc7-74e1-47c0-a181-8c6cc00cb5c2",
+    "text": "Guys? Are we just going to ignore how the kid said it cooked her eyeballs off like it was nothing? Guys?",
+    "sinnerId": "rodion",
+    "logId": "e39646d9-92bf-4179-97df-8aa7e4664d94",
+    "order": 2
+  },
+  {
+    "id": "3bca5825-6ca0-4524-9a01-f4616d29ea35",
+    "text": "Ohh… Is that why you requested a meeting? Sorry, but I don’t exactly know how my rewinding works, either…",
+    "sinnerId": "dante",
+    "logId": "eae9e840-3487-4017-b939-1df2e15bec97",
+    "order": 0
+  },
+  {
+    "id": "6672efd4-fd5a-41f8-9e28-782c764de474",
+    "text": "We do not have enough data to determine if any links exist between these two regeneration methodologies. I am unable to draw a conclusion at this time.",
+    "sinnerId": "faust",
+    "logId": "eae9e840-3487-4017-b939-1df2e15bec97",
+    "order": 1
+  },
+  {
+    "id": "571707a5-8e1a-4d85-a802-f1d605add762",
+    "text": "Shattering its vacuum tubes seemed to prove effective against this entity. It was unable to reconstruct itself once they were destroyed.",
+    "sinnerId": "yi_sang",
+    "logId": "eae9e840-3487-4017-b939-1df2e15bec97",
+    "order": 2
+  },
+  {
+    "id": "47b968cb-1a1f-408b-bcc5-4905effec263",
+    "text": "It’s all sunshine and rainbows with you, innit? Gardener? Piece of art? What is wrong with you? It’s a monster that skewers people!",
+    "sinnerId": "heathcliff",
+    "logId": "991d62c0-778b-45d4-91f5-57455a013630",
+    "order": 0
+  },
+  {
+    "id": "3f967a9c-7e50-43fd-aa8f-f89e141f5160",
+    "text": "Disagreed. T.I.A. (Someone scribbled ”I think she’s saying ‘This Is Art’!” here.) From grotesqueries rises artistic merit. I’m surprised that you caught on.",
+    "sinnerId": "ryoshu",
+    "logId": "991d62c0-778b-45d4-91f5-57455a013630",
+    "order": 1
+  },
+  {
+    "id": "b818a216-42a7-435d-97ce-4c846e9be58b",
+    "text": "I assigned her the task of recording the larger Abnormalities to prevent similar occurrences such as the one with… the chickens. Yet… unexpected incidents seem to occur regardless of the Abnormality’s size.",
+    "sinnerId": "faust",
+    "logId": "9cde9ace-0f43-4b4e-96e6-73eec3bf27fd",
+    "order": 0
+  },
+  {
+    "id": "d69e7afa-42c8-45c2-8e75-5fed23a2d43f",
+    "text": "… I would appreciate it if you could please share with us which Sinner you had chosen to write the records afore our first encounters with the Abnormalities.",
+    "sinnerId": "yi_sang",
+    "logId": "9cde9ace-0f43-4b4e-96e6-73eec3bf27fd",
+    "order": 1
+  },
+  {
+    "id": "97db7a3c-c277-4ffc-a129-c144813f61f3",
+    "text": "So this is the first time I’m experiencing the sensation of drowning 12 times. Simultaneously. … Let’s… try not to make this a repeat occurrence. Please…",
+    "sinnerId": "dante",
+    "logId": "9cde9ace-0f43-4b4e-96e6-73eec3bf27fd",
+    "order": 2
+  },
+  {
+    "id": "c450d5a7-2559-4780-881b-0141cecf4007",
+    "text": "… How long were we going to ‘refrain from going on the offense’ huh?",
+    "sinnerId": "heathcliff",
+    "logId": "2c69eda2-9e6a-4e4c-ae6f-829932ec63fc",
+    "order": 0
+  },
+  {
+    "id": "dd1250d3-39d1-4aaf-8e5f-2101adc8da21",
+    "text": "It has been determined that attacking the entity before lighting the candles around it was a fruitless effort. Our long standby appears to have been meaningless.",
+    "sinnerId": "faust",
+    "logId": "2c69eda2-9e6a-4e4c-ae6f-829932ec63fc",
+    "order": 1
+  },
+  {
+    "id": "728c6095-fa22-44bb-94f3-a450e8fd3d4a",
+    "text": "Misjudgements are common occurrences in battles. I have taken responsibility for my mistake by taking the candles’ attacks. (Some of the letters glisten with what appears to be wax drippings.)",
+    "sinnerId": "outis",
+    "logId": "2c69eda2-9e6a-4e4c-ae6f-829932ec63fc",
+    "order": 2
+  },
+  {
+    "id": "d68ad04f-88f8-45e7-b4b8-8ca29663a901",
+    "text": "Huh? What’s this here? Where’d the lad go without finishing the log?",
+    "sinnerId": "heathcliff",
+    "logId": "edcf001d-f591-4b72-8b20-552e5dd60b08",
+    "order": 0
+  },
+  {
+    "id": "7ed7e6a8-3669-4202-8d69-d85a543f72e5",
+    "text": "If by ‘lad’ you refer to Sinclair, I witnessed him leaving hurriedly to the deck. I could tell from his pale countenance that he was, like myself, suffering from seasickness…",
+    "sinnerId": "yi_sang",
+    "logId": "edcf001d-f591-4b72-8b20-552e5dd60b08",
+    "order": 1
+  },
+  {
+    "id": "de650e96-2a0e-4f82-85df-a43885d05f25",
+    "text": "Augh, bloody hell! That’s disgusting!",
+    "sinnerId": "heathcliff",
+    "logId": "edcf001d-f591-4b72-8b20-552e5dd60b08",
+    "order": 2
+  },
+  {
+    "id": "30b4adda-cd5c-4640-b6ef-056ff03b1533",
+    "text": "A closer observation of the residue reveals that it is perspiration, not vomit. Do not worry; this will not have a negative effect on the cleanliness of the records.",
+    "sinnerId": "faust",
+    "logId": "edcf001d-f591-4b72-8b20-552e5dd60b08",
+    "order": 3
+  },
+  {
+    "id": "ca1bb6a3-4d94-42a4-917a-2e72a61b14ac",
+    "text": "Fau… I didn’t need to hear that either…",
+    "sinnerId": "rodion",
+    "logId": "edcf001d-f591-4b72-8b20-552e5dd60b08",
+    "order": 4
+  },
+  {
+    "id": "4f1ef1b2-8871-4a04-8cbc-d8474c909e8f",
+    "text": "Hmph, why did you not record the part where you flailed wildly with the broken pieces of your halberd, soldier?",
+    "sinnerId": "outis",
+    "logId": "e0e34547-3e88-44c6-a53f-98c6bb011211",
+    "order": 0
+  },
+  {
+    "id": "d65109ce-f95d-47f6-99ff-85a43e490492",
+    "text": "H-how is that relevant?!",
+    "sinnerId": "sinclair",
+    "logId": "e0e34547-3e88-44c6-a53f-98c6bb011211",
+    "order": 1
+  },
+  {
+    "id": "d683eb15-8eba-4620-96d4-748afefa5df8",
+    "text": "This was a meaningful discovery. However, your meaningless struggle with an ineffective weapon could have been a part of this record as well.",
+    "sinnerId": "faust",
+    "logId": "e0e34547-3e88-44c6-a53f-98c6bb011211",
+    "order": 3
+  },
+  {
+    "id": "ef35d629-fcb1-478d-bf12-5a8b871ce32b",
+    "text": "… Meursault… Faust… come on…",
+    "sinnerId": "sinclair",
+    "logId": "e0e34547-3e88-44c6-a53f-98c6bb011211",
+    "order": 5
+  },
+  {
+    "id": "789bd967-95c7-4384-bb14-aa55600d5f9e",
+    "text": "Glad you’re learning something new, kiddo… but how about this? Say… like, not just standing around in an emergency?",
+    "sinnerId": "rodion",
+    "logId": "d17d974a-885f-4e87-8211-7473a35cd39a",
+    "order": 0
+  },
+  {
+    "id": "fbd83e7e-0bbd-4e0e-897a-65749d1074e9",
+    "text": "No need to coddle him about it. Oi, we all died because you were busy celebrating, goin’ “I-I did it!” after getting the clam’s gob open.",
+    "sinnerId": "heathcliff",
+    "logId": "d17d974a-885f-4e87-8211-7473a35cd39a",
+    "order": 1
+  },
+  {
+    "id": "036ea771-66a6-46a0-8273-ec9e0afe3e14",
+    "text": "… Sorry…",
+    "sinnerId": "sinclair",
+    "logId": "d17d974a-885f-4e87-8211-7473a35cd39a",
+    "order": 2
+  },
+  {
+    "id": "5469d393-4b93-48b9-870b-43791f7cf0d7",
+    "text": "That is pertinent information. Despite your ineffectual attempts at drawing their attention, the larvae from the entity’s effluvia instead opted to attack allies that were in a better state than you were.",
+    "sinnerId": "meursault",
+    "logId": "e0e34547-3e88-44c6-a53f-98c6bb011211",
+    "order": 2
+  },
+  {
+    "id": "e0eb0c49-36c1-4797-aa0b-563ab9b7135d",
+    "text": "Right, mate, but fancy speech doesn’t explain why you decided to stroll right under its nose and burn yourself to a crisp, does it?",
+    "sinnerId": "heathcliff",
+    "logId": "149a2cbf-b17f-490f-88b5-931684f12f5a",
+    "order": 0
+  },
+  {
+    "id": "b6d7b61c-adb4-4922-a665-468d80b04ea3",
+    "text": "We have garnered a piece of useful intelligence from his death, however. The ‘embers’ Yi Sang brought back could spread to others under certain circumstances.",
+    "sinnerId": "faust",
+    "logId": "149a2cbf-b17f-490f-88b5-931684f12f5a",
+    "order": 1
+  },
+  {
+    "id": "d6684de9-2a8b-42d1-be3e-ef5e75af29df",
+    "text": "… And it spread right onto you and burned your skin. Most people I know would have a little more intense reaction to getting burned alive.",
+    "sinnerId": "ishmael",
+    "logId": "149a2cbf-b17f-490f-88b5-931684f12f5a",
+    "order": 2
+  },
+  {
+    "id": "2401ead9-6a36-496c-a20b-47f7f6fe48f4",
+    "text": "Well, yes. But the pain was relatively manageable.",
+    "sinnerId": "faust",
+    "logId": "149a2cbf-b17f-490f-88b5-931684f12f5a",
+    "order": 3
+  },
+  {
+    "id": "292cf01d-bef5-4daf-82ab-e92d59c00e80",
+    "text": " I must inquire: is the thought of food consumption all that you are capable of processing?",
+    "sinnerId": "outis",
+    "logId": "1f9495bb-10b1-47cf-8baa-18599f9fcd4c",
+    "order": 0
+  },
+  {
+    "id": "4aa7f483-9cfb-4f23-a051-09b172b9338f",
+    "text": "Hey, I spent most of my life hungry, ‘kay? I guess rich kids with full bellies and cushy homes won’t understand.",
+    "sinnerId": "rodion",
+    "logId": "1f9495bb-10b1-47cf-8baa-18599f9fcd4c",
+    "order": 1
+  },
+  {
+    "id": "fcb9abf8-0bc4-4d4d-9510-c68ffaf91027",
+    "text": "Mmm~ I understand! Beef always tastes good, hungry or not. Even though I’ve never been hungry before I joined the company, hehe.",
+    "sinnerId": "hong_lu",
+    "logId": "1f9495bb-10b1-47cf-8baa-18599f9fcd4c",
+    "order": 2
+  },
+  {
+    "id": "1287ec8f-9749-4cbc-b2e4-35cb621599ec",
+    "text": "That’s not what I— ha ha.",
+    "sinnerId": "rodion",
+    "logId": "1f9495bb-10b1-47cf-8baa-18599f9fcd4c",
+    "order": 3
+  },
+  {
+    "id": "e0209d0b-8873-4a55-bccd-16cbfee5a3b1",
+    "text": "Though your intentions may not have been hostile, I believe it is inappropriate to ridicule the Executive Manager as you have done here.",
+    "sinnerId": "outis",
+    "logId": "6c7adfdc-6799-46e6-8031-0df59f597521",
+    "order": 0
+  },
+  {
+    "id": "c518d30c-af90-4019-9c0d-0c99e5325001",
+    "text": "I give him a fair share of warnings every time I get the chance, Executive Manager.",
+    "sinnerId": "outis",
+    "logId": "6c7adfdc-6799-46e6-8031-0df59f597521",
+    "order": 2
+  },
+  {
+    "id": "c1fb7f41-5fde-4d5e-a517-b3ed53e73000",
+    "text": "Huh? Clockhead's scribbled something here. Oh... so that's why our resident stick-up-the-arse sighed at me earlier, eh?",
+    "sinnerId": "heathcliff",
+    "logId": "6c7adfdc-6799-46e6-8031-0df59f597521",
+    "order": 4
+  },
+  {
+    "id": "60f26ec0-8794-4765-b9eb-a2664f9933a0",
+    "text": "Well, this isn’t anything new. If you want to tackle every instance of you guys making fun of me, you'll be lecturing Heathcliff all week. And then some.",
+    "sinnerId": "dante",
+    "logId": "6c7adfdc-6799-46e6-8031-0df59f597521",
+    "order": 1
+  },
+  {
+    "id": "9275d681-7451-43f6-be40-3bffa1141e7f",
+    "text": "What I’m saying is that I’m okay with it, so there’s no need to do something like that…",
+    "sinnerId": "dante",
+    "logId": "6c7adfdc-6799-46e6-8031-0df59f597521",
+    "order": 3
+  },
+  {
+    "id": "1bde4972-8718-4163-ada2-93dc8decbb8e",
+    "text": "Do you still remember the things she said?",
+    "sinnerId": "dante",
+    "logId": "68e5d39c-8605-4717-ba23-a4cae656aba2",
+    "order": 0
+  },
+  {
+    "id": "9a70a65f-d0a9-48d8-9fd8-a887ac6e78e5",
+    "text": "Well… I doubt I’ll ever forget what that bastard said, but that’s all. I might turn around to look at the path I sailed through… but I’m not going back.",
+    "sinnerId": "ishmael",
+    "logId": "68e5d39c-8605-4717-ba23-a4cae656aba2",
+    "order": 1
+  },
+  {
+    "id": "eeee85df-c75a-42ea-90f7-2043ce6cb1fe",
+    "text": "I.D.K.W.T.H.H.T.A.",
+    "sinnerId": "ryoshu",
+    "logId": "c3b084b7-6216-465c-a0e7-301aa4964f6b",
+    "order": 0
+  },
+  {
+    "id": "61686345-d78e-430c-bd95-716a0f569379",
+    "text": "C’mon, mate. Even the incomprehensible lass can’t understand what the hell you’re talking about. Write plainly for once, yeah?",
+    "sinnerId": "heathcliff",
+    "logId": "c3b084b7-6216-465c-a0e7-301aa4964f6b",
+    "order": 1
+  },
+  {
+    "id": "77fde1f9-fe1b-4b28-8e91-ee8c1a3634e2",
+    "text": "I believe that this record was composed in quite the luculent incontrovertibility…",
+    "sinnerId": "yi_sang",
+    "logId": "c3b084b7-6216-465c-a0e7-301aa4964f6b",
+    "order": 2
+  },
+  {
+    "id": "38e2b288-3fb3-4c28-a9d2-ce866bbd8699",
+    "text": "Lucu— Incontro— Haah. C’mon, Yi Sang. You’re doing this on purpose at this point, aren't ya?",
+    "sinnerId": "heathcliff",
+    "logId": "c3b084b7-6216-465c-a0e7-301aa4964f6b",
+    "order": 3
+  },
+  {
+    "id": "df3be5ec-940f-4816-be2a-016f03c79092",
+    "text": "… I have naught else to say.",
+    "sinnerId": "yi_sang",
+    "logId": "c3b084b7-6216-465c-a0e7-301aa4964f6b",
+    "order": 4
+  },
+  {
+    "id": "e414ddcc-6eae-4306-a1d5-efbcc0b24aed",
+    "text": "I-I wish there was a different way to bring people back. It looked like he was in a lot of pain whenever we hit him...",
+    "sinnerId": "sinclair",
+    "logId": "95f286da-3559-47a8-8010-bc27d8ca26c2",
+    "order": 0
+  },
+  {
+    "id": "c30dff35-11e6-4442-8eee-72d8059c0792",
+    "text": "Then I shall beat him less painfully!",
+    "sinnerId": "don_quixote",
+    "logId": "95f286da-3559-47a8-8010-bc27d8ca26c2",
+    "order": 1
+  },
+  {
+    "id": "3d475429-473d-4e28-896d-89a706196c6f",
+    "text": "That’s not at all what I’m talking about...",
+    "sinnerId": "sinclair",
+    "logId": "95f286da-3559-47a8-8010-bc27d8ca26c2",
+    "order": 2
+  },
+  {
+    "id": "2e71f49c-007b-4eac-bc49-ea5deccb1097",
+    "text": "We lack the sufficient information regarding Distortions to devise a different plan of action. Even if we were to discover a way, there is no guarantee that it is something universally applicable. Therefore, I conclude that we must prioritize suppression via martial strength. However, if you consider inflicting pain to be an unsavory element in the process, utilizing weaker strikes may be an alternative method.",
+    "sinnerId": "meursault",
+    "logId": "95f286da-3559-47a8-8010-bc27d8ca26c2",
+    "order": 3
+  },
+  {
+    "id": "3545c6c5-11c2-40ce-b3c6-159e7a738c34",
+    "text": "You know what…? Nevermind.",
+    "sinnerId": "sinclair",
+    "logId": "95f286da-3559-47a8-8010-bc27d8ca26c2",
+    "order": 4
+  },
+  {
+    "id": "ff5c9ce3-7cd2-40ae-af69-d291716b75cf",
+    "text": "They're... fairies...? T-that can't be. Fairies are supposed to be beautiful, kind, and, and...",
+    "sinnerId": "sinclair",
+    "logId": "0d023419-b7e7-4d05-a557-5d40b2618551",
+    "order": 0
+  },
+  {
+    "id": "2e08bd48-6986-4214-b164-1b86bffbc0d6",
+    "text": "Think about it for a second. Think back to those 'Fairies' that we ran into back in the Mirror Dungeons and the Railways.",
+    "sinnerId": "ishmael",
+    "logId": "0d023419-b7e7-4d05-a557-5d40b2618551",
+    "order": 1
+  },
+  {
+    "id": "da71a6af-ee32-4ce7-a851-8da82494ddc0",
+    "text": "Eugh...",
+    "sinnerId": "sinclair",
+    "logId": "0d023419-b7e7-4d05-a557-5d40b2618551",
+    "order": 2
+  },
+  {
+    "id": "984d4678-38c5-4493-8f7c-313c98fd57ca",
+    "text": " Huh, yeah... A bit like them green, mushy sods we saw elsewhere, innit?",
+    "sinnerId": "heathcliff",
+    "logId": "0d023419-b7e7-4d05-a557-5d40b2618551",
+    "order": 3
+  },
+  {
+    "id": "47db3bd7-ca9a-4199-849d-682c59bed343",
+    "text": "And those wings, too...",
+    "sinnerId": "sinclair",
+    "logId": "0d023419-b7e7-4d05-a557-5d40b2618551",
+    "order": 4
+  },
+  {
+    "id": "3219bc84-3735-438b-b0b8-99ab4f231046",
+    "text": "Oi, the big one kept chomping down on the smaller ones whenever it looked like it was 'bout to kick the bucket. Any bright ideas on how to stop that rampage?",
+    "sinnerId": "heathcliff",
+    "logId": "a8a01643-9ae1-4f3e-b344-318d4dfe5b95",
+    "order": 0
+  },
+  {
+    "id": "daaad977-55db-453d-8e1f-ae8eac0a4371",
+    "text": "... Quite. But I don't believe letting the smaller entities live just for the possibility of shortening the battle is much of a sound strategy.",
+    "sinnerId": "yi_sang",
+    "logId": "a8a01643-9ae1-4f3e-b344-318d4dfe5b95",
+    "order": 1
+  },
+  {
+    "id": "c3463152-29d4-498a-839a-57905f8aed30",
+    "text": "Hm hm! Forsooth, I have espied that, after one of its violent meals, the 'queen' appeared to lose quite a bit of its vim!",
+    "sinnerId": "don_quixote",
+    "logId": "a8a01643-9ae1-4f3e-b344-318d4dfe5b95",
+    "order": 2
+  },
+  {
+    "id": "3e9a87f4-b01b-468d-b72c-b8e59b7845be",
+    "text": "Uh... what, like it fell into a food coma or something?",
+    "sinnerId": "rodion",
+    "logId": "a8a01643-9ae1-4f3e-b344-318d4dfe5b95",
+    "order": 3
+  },
+  {
+    "id": "87dac0cb-71df-4182-8523-f2dec60adc3a",
+    "text": "People like equal share until they have to give up something of theirs. That's just the way most people are.",
+    "sinnerId": "rodion",
+    "logId": "4b22c156-c3ab-469e-aad4-992af2be9252",
+    "order": 0
+  },
+  {
+    "id": "5b974358-5e37-4a9e-a648-e075096075ae",
+    "text": "Well, so much for that intimidating moniker, huh? That fella had an impressive power at his disposal, but the person behind that power wasn't anyone special.",
+    "sinnerId": "heathcliff",
+    "logId": "4b22c156-c3ab-469e-aad4-992af2be9252",
+    "order": 1
+  },
+  {
+    "id": "bed74367-4c0a-4fa4-87d1-963973e33843",
+    "text": "M.I.D.D.L.I.N.G. (somebody scribbled the following note in the margins: Morality Ignored and Deserted Due to Luxury, Integrity: Naturally Gone.)",
+    "sinnerId": "ryoshu",
+    "logId": "4b22c156-c3ab-469e-aad4-992af2be9252",
+    "order": 2
+  },
+  {
+    "id": "e8117997-96b6-4c00-8202-38f9e3e0e781",
+    "text": "Yeah~ even the Time Ripper wasn't anyone special. Unlike me, who's... (the text trails off, as though someone hesitated writing further before abandoning the idea)",
+    "sinnerId": "rodion",
+    "logId": "4b22c156-c3ab-469e-aad4-992af2be9252",
+    "order": 3
+  },
+  {
+    "id": "f87ff8f6-9ec1-4a42-a758-8cb838f313cb",
+    "text": " I don’t know if they were ‘weaker than us’… I’d say they were about as strong as you guys. Besides, I will never just leave something important like that lying around.",
+    "sinnerId": "dante",
+    "logId": "de752d83-e733-4c45-b68c-4fb9c24bccab",
+    "order": 0
+  },
+  {
+    "id": "d78ecf8d-b41b-4303-9f9a-177bf9be0509",
+    "text": "Hm… I saw you hastily digging your pockets as we left, Manager Bud. Are ya sure?",
+    "sinnerId": "gregor",
+    "logId": "de752d83-e733-4c45-b68c-4fb9c24bccab",
+    "order": 1
+  },
+  {
+    "id": "968d0f93-6650-43a4-bce5-b267ef98b8f5",
+    "text": "Dante, you must never misplace your Identity Cards. Please take greater care to store them safely. Losing them will result in a consequence greater than having to write an incident report.",
+    "sinnerId": "faust",
+    "logId": "de752d83-e733-4c45-b68c-4fb9c24bccab",
+    "order": 2
+  },
+  {
+    "id": "b8d8d767-38ce-459c-80d4-20d49407cf6a",
+    "text": "... Are they really that expensive?",
+    "sinnerId": "dante",
+    "logId": "de752d83-e733-4c45-b68c-4fb9c24bccab",
+    "order": 3
+  },
+  {
+    "id": "cf20428b-9a75-4ec6-ab51-a819b3b32dd6",
+    "text": "They are not items that can be measured by monetary value. Please pay utmost care in storing them.",
+    "sinnerId": "faust",
+    "logId": "de752d83-e733-4c45-b68c-4fb9c24bccab",
+    "order": 4
+  },
+  {
+    "id": "ce0c8310-c6c1-4f95-aed6-e6037f675668",
+    "text": "What they lack is our Executive Manager’s splendiferous command. That will be the deciding factor in turning the tide of this battle.",
+    "sinnerId": "outis",
+    "logId": "c0ab0150-66f2-4846-a5f1-62133fed498f",
+    "order": 0
+  },
+  {
+    "id": "ae0e9445-7203-4134-a470-c7c24b662221",
+    "text": "It is as Miss Rodya has said. We have prevailed against greater foes in the past; a path shall open for us, surely.",
+    "sinnerId": "yi_sang",
+    "logId": "c0ab0150-66f2-4846-a5f1-62133fed498f",
+    "order": 1
+  },
+  {
+    "id": "0f4bb9ac-e9d8-46e5-9f45-75f4e5c7ac1c",
+    "text": "Totes~ They’re nothing compared to what we…(something was written here, but it’s been erased) faced before!",
+    "sinnerId": "rodion",
+    "logId": "c0ab0150-66f2-4846-a5f1-62133fed498f",
+    "order": 2
+  },
+  {
+    "id": "af2e5e06-6d24-4c6b-a586-337a4b66ef1d",
+    "text": "H-how many of them are there?",
+    "sinnerId": "sinclair",
+    "logId": "e14739d0-3b7a-49e4-8f54-3d41e9dc0fee",
+    "order": 0
+  },
+  {
+    "id": "6e893d1e-4f83-443d-b10d-471e2f5caea6",
+    "text": "If the king seeks to watch an evenly matched battle, then it can be assumed that the entities have the same number of allies in their ranks as we do. If such is not the case, however, any further speculation may be a meaningless effort.",
+    "sinnerId": "outis",
+    "logId": "e14739d0-3b7a-49e4-8f54-3d41e9dc0fee",
+    "order": 1
+  },
+  {
+    "id": "ed3a1be9-f913-4756-86d8-2c75c538e44b",
+    "text": "A tragedy? Bullshit.",
+    "sinnerId": "ryoshu",
+    "logId": "1d47231d-534d-4cf1-b2c3-f10c37c3f8f3",
+    "order": 0
+  },
+  {
+    "id": "298d178c-c68a-4ecb-9e1a-6dc986d5e4f9",
+    "text": "To be in command of others, to reign over another, is a declaration that one shall endure the responsibilities and the suffering that come with power. I would like to take this opportunity to extend my deepest gratitude to our Executive Manager, who leads us with a firm but fair, excellent hand. ",
+    "sinnerId": "outis",
+    "logId": "1d47231d-534d-4cf1-b2c3-f10c37c3f8f3",
+    "order": 1
+  },
+  {
+    "id": "d367e8b4-ebf4-4464-b3ba-c32009185afa",
+    "text": "Um… so, this is just a suggestion, but… how about we go for the real one first?",
+    "sinnerId": "dante",
+    "logId": "ee70a107-b4ea-4020-940d-873b3b274bf9",
+    "order": 0
+  },
+  {
+    "id": "6fbb6ca9-f004-444d-821f-6033f17c6ba0",
+    "text": "Ooh, is this our Executive Manager’s stratagem? Such a brilliant idea can only come from a genius mind such as yours.",
+    "sinnerId": "outis",
+    "logId": "ee70a107-b4ea-4020-940d-873b3b274bf9",
+    "order": 1
+  },
+  {
+    "id": "ae53dd3e-789e-4403-8f45-0901bba509c5",
+    "text": "That is a sound plan, Dante. Let us proceed in that order and observe the consequences of that effort.",
+    "sinnerId": "faust",
+    "logId": "ee70a107-b4ea-4020-940d-873b3b274bf9",
+    "order": 2
+  },
+  {
+    "id": "0b7ec641-d42e-4cb1-a206-fbb18288ba21",
+    "text": "N-no misunderstanding here… Don’t worry about it too much.",
+    "sinnerId": "sinclair",
+    "logId": "cefbaa04-55da-4807-a420-806c02083b19",
+    "order": 0
+  },
+  {
+    "id": "bc344ded-51b7-4c08-a9a1-e1eea0de1937",
+    "text": "A flower, once bloomed with such resplendent radiance, has wilted for naught. … What you have conveyed here with your writing holds a degree of truth.",
+    "sinnerId": "yi_sang",
+    "logId": "cefbaa04-55da-4807-a420-806c02083b19",
+    "order": 1
+  },
+  {
+    "id": "afe9ff63-68fc-44c2-abe3-acf84711605e",
+    "text": "I wasn’t really thinking about it until you mentioned it. So that’s what's been on your mind, huh? Gregor.",
+    "sinnerId": "ishmael",
+    "logId": "cefbaa04-55da-4807-a420-806c02083b19",
+    "order": 2
+  },
+  {
+    "id": "943340e2-03ce-4aca-bc62-304f9e7b43aa",
+    "text": "This ain’t nothin’ to be ashamed about, mate. I’m right there with you. The living’s gotta keep on living so… we can remember. ",
+    "sinnerId": "heathcliff",
+    "logId": "cefbaa04-55da-4807-a420-806c02083b19",
+    "order": 3
+  },
+  {
+    "id": "242d9b0c-b04b-4854-9866-dfe5b3f94908",
+    "text": "Can you gimme some time to make edits after writing these reports, Frau Faust? Man, this is… haah, oh man.",
+    "sinnerId": "gregor",
+    "logId": "cefbaa04-55da-4807-a420-806c02083b19",
+    "order": 4
+  },
+  {
+    "id": "5cd3510f-f322-4d7b-8233-b58640b7b303",
+    "text": "Huh, so that's what you were thinking when ya suddenly started sprinting towards that thing, kiddo? That was one weird battle cry, by the way.",
+    "sinnerId": "gregor",
+    "logId": "b97b70d7-8d8d-4d2d-b7b6-e42818b3f222",
+    "order": 0
+  },
+  {
+    "id": "ab830cc2-0954-40b1-a0d5-0f39b72ffbd0",
+    "text": "Once Sinclair comes back, I'll let him know that there's no need to overexert himself.",
+    "sinnerId": "dante",
+    "logId": "b97b70d7-8d8d-4d2d-b7b6-e42818b3f222",
+    "order": 1
+  },
+  {
+    "id": "ae04db1b-6402-463f-856d-52adb1f87321",
+    "text": "Where is the rest of this record? He left this report unfinished.",
+    "sinnerId": "ishmael",
+    "logId": "bd35b990-34bf-479d-a87c-87ba7faa90cf",
+    "order": 0
+  },
+  {
+    "id": "05faf318-f763-48ad-a5b3-ceacd9c2c85a",
+    "text": "T.P. A boring death, totally pulverized by the ramming sheep.",
+    "sinnerId": "ryoshu",
+    "logId": "bd35b990-34bf-479d-a87c-87ba7faa90cf",
+    "order": 1
+  },
+  {
+    "id": "2b6f9391-d435-4977-bd69-e2e0ecf55d71",
+    "text": "It can be determined that his cause of death was his negligence to pay attention to the battle to the end. He should not have diverted his attention to writing this record in the middle of a fight.",
+    "sinnerId": "outis",
+    "logId": "bd35b990-34bf-479d-a87c-87ba7faa90cf",
+    "order": 2
+  },
+  {
+    "id": "32dbe078-46ef-4404-8e5e-d0374424718a",
+    "text": "I really thought it would work… Maybe the lightning wasn’t its source of pain?",
+    "sinnerId": "sinclair",
+    "logId": "bd35b990-34bf-479d-a87c-87ba7faa90cf",
+    "order": 3
+  },
+  {
+    "id": "64d74165-7b4c-4775-9f25-e156ec620534",
+    "text": "Not enough lightning was drained from its body, perchance? Mayhaps we shall impale it with the other cables first, then observe?!",
+    "sinnerId": "don_quixote",
+    "logId": "bd35b990-34bf-479d-a87c-87ba7faa90cf",
+    "order": 4
+  },
+  {
+    "id": "c26b9080-7f3d-48e9-9a63-f1273198355d",
+    "text": "Hm? Frau Faust didn’t leave a note here. Now that’s a surprise.",
+    "sinnerId": "gregor",
+    "logId": "0df2bdee-262c-4652-bb12-b853352de6de",
+    "order": 0
+  },
+  {
+    "id": "71274f85-4805-4896-b64e-2ffd8b392b86",
+    "text": "Faust does not always consider these ruminations as unnecessary. In fact, she considers this an interesting subject.",
+    "sinnerId": "faust",
+    "logId": "0df2bdee-262c-4652-bb12-b853352de6de",
+    "order": 1
+  },
+  {
+    "id": "5f4860ff-c80b-4809-8263-941e7e2f4211",
+    "text": "So, can Abnormalities even dream? I’ve seen some entities among the Outskirts Monsters that'd fall catatonic like this sheep.",
+    "sinnerId": "ishmael",
+    "logId": "0df2bdee-262c-4652-bb12-b853352de6de",
+    "order": 2
+  },
+  {
+    "id": "621da39a-e904-483a-b356-0a0792c5da02",
+    "text": "Hmph, isn’t the answer obvious? They’re merely emulations of human behavior, nothing more.",
+    "sinnerId": "outis",
+    "logId": "0df2bdee-262c-4652-bb12-b853352de6de",
+    "order": 3
+  },
+  {
+    "id": "e28efabe-44a0-4e67-a538-d75fe2f14b5d",
+    "text": "The ability to recollect may become the Abnormalities’ bridge from the waking world into the land of dreams. Yet, we know not whether what it reminisces is its past, or merely its figments. I lack sufficient evidence to speak with any more confidence.",
+    "sinnerId": "yi_sang",
+    "logId": "0df2bdee-262c-4652-bb12-b853352de6de",
+    "order": 4
+  },
+  {
+    "id": "68975b54-78c5-460d-9146-3e98e289e8de",
+    "text": "Woah! Like unprocessed gemstones? Hey, we could make a fortune selling them!",
+    "sinnerId": "rodion",
+    "logId": "5f021550-4832-41a1-a2b6-45999b1b7c50",
+    "order": 0
+  },
+  {
+    "id": "54cc0628-816c-4884-8ff2-c9a8efda997a",
+    "text": "T-that doesn’t make any sense, Rodya…",
+    "sinnerId": "sinclair",
+    "logId": "5f021550-4832-41a1-a2b6-45999b1b7c50",
+    "order": 1
+  },
+  {
+    "id": "4be07763-e99e-4bf8-b4b2-54fb5546526f",
+    "text": "The crystals are unlikely to be of any significant financial worth. They are simply congealed blood.",
+    "sinnerId": "faust",
+    "logId": "5f021550-4832-41a1-a2b6-45999b1b7c50",
+    "order": 2
+  },
+  {
+    "id": "057cc274-c824-4936-8111-32e11f1f7ba4",
+    "text": "Hey, how much dough do ya think those W Corp. weapons will fetch if we pawn them? Ohh, or maybe we can even use ‘em ourselves~!",
+    "sinnerId": "rodion",
+    "logId": "20c13782-c94f-4016-aa2c-23c743959f3c",
+    "order": 0
+  },
+  {
+    "id": "d059ffd5-ca0a-4f4c-a4fd-e100ea643f43",
+    "text": "Selling them is probably a bad idea, right…? I don’t know if we should use them, either…",
+    "sinnerId": "sinclair",
+    "logId": "20c13782-c94f-4016-aa2c-23c743959f3c",
+    "order": 1
+  },
+  {
+    "id": "998b25d2-e696-4412-a06f-7ef0d25842c7",
+    "text": "… It is my wish that we will not resort to plundering and peddling the weapons of a Wing…",
+    "sinnerId": "faust",
+    "logId": "20c13782-c94f-4016-aa2c-23c743959f3c",
+    "order": 2
+  },
+  {
+    "id": "216fa8cc-1d1c-464a-b2b3-6be02f9d0d02",
+    "text": "Aw, darn. What a way to rain on my parade.",
+    "sinnerId": "rodion",
+    "logId": "20c13782-c94f-4016-aa2c-23c743959f3c",
+    "order": 3
+  },
+  {
+    "id": "a2c61dc2-ee5d-4ebb-88e2-5dcd990454a3",
+    "text": "Guys. What if we picked up a few of their prosthetics for ourselves?",
+    "sinnerId": "rodion",
+    "logId": "b0e96054-70ee-4031-9560-3ba6692710eb",
+    "order": 0
+  },
+  {
+    "id": "36ba7a02-dde7-4764-859e-3c93f8c6b503",
+    "text": "I have wished to speak to you about these comments, Rodya. Please refrain from collecting items aboard the train, as it may interfere with the restoration procedure.",
+    "sinnerId": "faust",
+    "logId": "b0e96054-70ee-4031-9560-3ba6692710eb",
+    "order": 1
+  },
+  {
+    "id": "0b8240b0-ba01-4a84-87dc-75e297ae46b2",
+    "text": "Also, maybe they’re watching all of our moves through something? The higher-ups love surveillance, you know~",
+    "sinnerId": "gregor",
+    "logId": "b0e96054-70ee-4031-9560-3ba6692710eb",
+    "order": 2
+  },
+  {
+    "id": "8ad0e874-c4b8-45b3-9820-19bbc02807a8",
+    "text": "I’m just kiddin’ this time, guys. Just joshin’ ya. Jeez.",
+    "sinnerId": "rodion",
+    "logId": "b0e96054-70ee-4031-9560-3ba6692710eb",
+    "order": 3
+  },
+  {
+    "id": "51f1db7e-1600-4b7b-8d6e-decd0e56359d",
+    "text": "Wait, you weren’t kidding earlier…?",
+    "sinnerId": "gregor",
+    "logId": "b0e96054-70ee-4031-9560-3ba6692710eb",
+    "order": 4
+  },
+  {
+    "id": "d165a1b4-5953-41ce-bb4e-7459c0efc16f",
+    "text": "Fau… ya kinda censored like… most of the report.",
+    "sinnerId": "rodion",
+    "logId": "3a94d451-ae82-4f4c-9e3f-cae88d31ad97",
+    "order": 0
+  },
+  {
+    "id": "41fc2a28-3f81-4ce7-8231-0ef251e9af02",
+    "text": "That is due to the insufficient security level.",
+    "sinnerId": "faust",
+    "logId": "3a94d451-ae82-4f4c-9e3f-cae88d31ad97",
+    "order": 1
+  },
+  {
+    "id": "61175d11-45b4-448d-80c5-cd46284169cc",
+    "text": "Hm. And how would one go about raising one’s security level? I believe that the Executive Manager, at the very least, is entitled to this knowledge.",
+    "sinnerId": "outis",
+    "logId": "3a94d451-ae82-4f4c-9e3f-cae88d31ad97",
+    "order": 2
+  },
+  {
+    "id": "c67e711d-0e1f-4bd1-b210-f60e9badebbb",
+    "text": "To raise one’s security level, [Authorization from a higher security level is required to access the data].",
+    "sinnerId": "faust",
+    "logId": "3a94d451-ae82-4f4c-9e3f-cae88d31ad97",
+    "order": 3
+  },
+  {
+    "id": "bb2c571b-bc71-4968-9e22-431156570415",
+    "text": "Seriously? You’re hiding that, too? Man…",
+    "sinnerId": "gregor",
+    "logId": "3a94d451-ae82-4f4c-9e3f-cae88d31ad97",
+    "order": 4
+  },
+  {
+    "id": "4edd478b-dd8b-402a-a24d-dbc6b069dce2",
+    "text": "An obvious, shameful conclusion awaits those who step onto the field of battle with such pathetic, weak-willed minds. They don’t deserve even an iota of respect, and rightly so.",
+    "sinnerId": "outis",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 0
+  },
+  {
+    "id": "4a79f44b-b1db-4437-b883-7aa6b9905cfd",
+    "text": "Do I seriously have to keep butting heads with you every time we talk about this subject? Don't tell me you've never felt even a tinge of empathy for them.",
+    "sinnerId": "gregor",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 1
+  },
+  {
+    "id": "a7e71618-98e3-4b4b-aa50-aba1b4bbe26c",
+    "text": "How can I trust someone who defects to the enemy the moment they fear for their lives? I have nothing but contempt for them.",
+    "sinnerId": "outis",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 2
+  },
+  {
+    "id": "a1531036-a517-4b3c-a853-c45eedba69d8",
+    "text": "… Fine. Maybe on a battlefield. But that’s all in the past. It's over.",
+    "sinnerId": "gregor",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 3
+  },
+  {
+    "id": "51ebe14a-dcb8-4341-aac6-22930552f4ce",
+    "text": "No, it’s not. It’s not over, none of it is. You only wish that it was.",
+    "sinnerId": "outis",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 4
+  },
+  {
+    "id": "5afecf50-293d-48eb-8ddf-bad33555292a",
+    "text": "Observation logs are not forums for debate. Please refrain from engaging in one.",
+    "sinnerId": "faust",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 5
+  },
+  {
+    "id": "12356929-9b1e-403d-bf13-2f1397ac2ad9",
+    "text": "Also, their designation is ‘Bloodbags’, not ‘Bloodbaskets’. It is regrettable that you continue to fail to refer to often-mentioned subjects by their often-mentioned, correct names.",
+    "sinnerId": "faust",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 6
+  },
+  {
+    "id": "b9e7f2d0-4782-4342-80af-a91d0333eeca",
+    "text": "That’s uh… yeah, okay. My bad…",
+    "sinnerId": "gregor",
+    "logId": "f45949a8-f586-486f-963c-bc70900c5fca",
+    "order": 7
+  },
+  {
+    "id": "0efe6f5d-3d08-4e0a-81ca-3d3eba14dacc",
+    "text": "Damn, now that’s unexpected. I thought you two’d be like oil and water. I guess you grew pretty fond of Hohenheim, huh?",
+    "sinnerId": "gregor",
+    "logId": "832d2f11-8b22-4d22-98ae-218cd5466e90",
+    "order": 0
+  },
+  {
+    "id": "7b7586ce-2fcd-453e-b1c7-0bacc623fa91",
+    "text": "We’ve all been too hard on him, that’s why… Alright! Heath, if ya need anyone to lend ya an ear, come to me. How’s that?",
+    "sinnerId": "rodion",
+    "logId": "832d2f11-8b22-4d22-98ae-218cd5466e90",
+    "order": 1
+  },
+  {
+    "id": "66c05172-ec3c-4b20-8e71-4feb260a3988",
+    "text": "Rodya, aren’t you the one who always 'ignores' Heathcliff's inputs…?",
+    "sinnerId": "ishmael",
+    "logId": "832d2f11-8b22-4d22-98ae-218cd5466e90",
+    "order": 2
+  },
+  {
+    "id": "135f15d6-e4c1-4ce7-b733-d930f907fecb",
+    "text": "W-well, that’s because Dante told me to~",
+    "sinnerId": "rodion",
+    "logId": "832d2f11-8b22-4d22-98ae-218cd5466e90",
+    "order": 3
+  },
+  {
+    "id": "1d926d84-d9aa-4046-988f-89e6c0c027c8",
+    "text": "I wouldn't say that the \"goin' down swinging\" part is true, but… it's an idea. Let's try it",
+    "sinnerId": "dante",
+    "logId": "e6af5d09-e600-4370-94c3-58d5270f4c7e",
+    "order": 0
+  },
+  {
+    "id": "44ea53dc-e1d8-4fa6-b978-0268242690c2",
+    "text": "Mm… its claw attacks are more painful than expected. Let's try a different approach.",
+    "sinnerId": "ishmael",
+    "logId": "e6af5d09-e600-4370-94c3-58d5270f4c7e",
+    "order": 1
+  },
+  {
+    "id": "d9fd7111-48c1-42bd-b949-8176f7952718",
+    "text": "It can be inferred from this attempt that complete neglect may provoke anger.",
+    "sinnerId": "meursault",
+    "logId": "e6af5d09-e600-4370-94c3-58d5270f4c7e",
+    "order": 2
+  },
+  {
+    "id": "45e035c3-3fb5-4cd9-8ed7-eb7bf574dc61",
+    "text": "Darn… Then how about this? Let's all play with it together next time.",
+    "sinnerId": "rodion",
+    "logId": "e6af5d09-e600-4370-94c3-58d5270f4c7e",
+    "order": 3
+  },
+  {
+    "id": "7ebb605b-2bcb-4202-8b92-2406c92e5d31",
+    "text": " Right. So we've just got to… kick its arse just the right amount, then?",
+    "sinnerId": "heathcliff",
+    "logId": "4598798c-90dd-4ae2-923d-862683c4b03e",
+    "order": 1
+  },
+  {
+    "id": "8db34723-d74e-4c77-a9a9-689708b37276",
+    "text": "Just the right amount of entertainment may be permitted, but I will not tolerate a careless approach to battle",
+    "sinnerId": "outis",
+    "logId": "4598798c-90dd-4ae2-923d-862683c4b03e",
+    "order": 2
+  },
+  {
+    "id": "2bea7fd0-8c02-40e1-b593-aaab26cbe7f3",
+    "text": "So… what exactly is 'just the right amount'…?",
+    "sinnerId": "sinclair",
+    "logId": "4598798c-90dd-4ae2-923d-862683c4b03e",
+    "order": 3
+  },
+  {
+    "id": "f11d178f-e8c5-48a5-8128-740210e7f46f",
+    "text": " Ill rests my heart at the sight of that faint sorrow, though my head knew well that it is but an Abnormality.",
+    "sinnerId": "yi_sang",
+    "logId": "4598798c-90dd-4ae2-923d-862683c4b03e",
+    "order": 0
+  },
+  {
+    "id": "ee9f45d7-e190-4905-985b-2ff971a4d162",
+    "text": "…Writing stuff that… Faust might come to chastise you about it…",
+    "sinnerId": "sinclair",
+    "logId": "2b924a86-9672-4f77-af6a-ed71c103d766",
+    "order": 0
+  },
+  {
+    "id": "e5aa6589-5c51-4cc4-86b7-7e70f0616b79",
+    "text": " I do not 'chastise'. Those comments are only rational warnings against emotional treatment of Abnormalities that does not take into account the definition and the particularities of each Abnormality.",
+    "sinnerId": "faust",
+    "logId": "2b924a86-9672-4f77-af6a-ed71c103d766",
+    "order": 1
+  },
+  {
+    "id": "4b96b771-99c3-4500-a1d3-4a451b16daed",
+    "text": "C'mon, go easy on me, Fau~ Lemme dote a little on a cute Abno after a series of gross subjects~",
+    "sinnerId": "rodion",
+    "logId": "2b924a86-9672-4f77-af6a-ed71c103d766",
+    "order": 2
+  },
+  {
+    "id": "5269ce86-2d28-4cd2-b219-125681b14fff",
+    "text": "… A measure will be put in place to have less… externally grotesque entities assigned for your observation logging duty.",
+    "sinnerId": "faust",
+    "logId": "2b924a86-9672-4f77-af6a-ed71c103d766",
+    "order": 3
+  },
+  {
+    "id": "e6bfb510-d5ce-42d5-82c7-855600ea3009",
+    "text": "It is likely that this entity is in pursuit of the apple, considering the encounter in the Mirror Dungeon.",
+    "sinnerId": "meursault",
+    "logId": "121ff1f0-6f7b-4866-92ae-4775798286be",
+    "order": 0
+  },
+  {
+    "id": "7541951c-3f07-44ad-8067-d70ffce82f2a",
+    "text": "So he must've been desperately searching for something. I've know a few people like that back home, I understand~",
+    "sinnerId": "hong_lu",
+    "logId": "121ff1f0-6f7b-4866-92ae-4775798286be",
+    "order": 1
+  },
+  {
+    "id": "b712a839-322e-4e04-8bfa-1059b578f413",
+    "text": "Oh… didn't your little sister say that… your family was looking for you?",
+    "sinnerId": "sinclair",
+    "logId": "121ff1f0-6f7b-4866-92ae-4775798286be",
+    "order": 2
+  },
+  {
+    "id": "898cf0f2-4bf6-405b-b10c-87dca4d798ae",
+    "text": "They must really miss me. Hehe, I'm glad.",
+    "sinnerId": "hong_lu",
+    "logId": "121ff1f0-6f7b-4866-92ae-4775798286be",
+    "order": 3
+  },
+  {
+    "id": "51d9cb7e-c083-424b-ac8f-819a3a0dc67d",
+    "text": "Well, can't help gettin' right impatient when goin' back, eh?",
+    "sinnerId": "heathcliff",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 0
+  },
+  {
+    "id": "6abada20-85df-43d5-b497-9593c2e9b86f",
+    "text": "Agreed, for once. There is no need to dally on a return journey. The faster it is, the better it is.",
+    "sinnerId": "outis",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 1
+  },
+  {
+    "id": "defadb8e-818e-4db1-98b0-cfb4410fc35c",
+    "text": "I meant to ask— So what got you so rearing to go back to that manor, Heathcliff?",
+    "sinnerId": "hong_lu",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 2
+  },
+  {
+    "id": "07872be6-58e8-49ea-9df3-d0ef58a3aad5",
+    "text": "Huh… that's a good question. Yeah, what was up with all the rush back then? Whoever sent the letter wasn't even there at the manor.",
+    "sinnerId": "ishmael",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 3
+  },
+  {
+    "id": "a1c4c898-6fce-495c-a363-64f34132ca9a",
+    "text": "Cool… thanks.",
+    "sinnerId": "dante",
+    "logId": "d7e01a16-0ebf-42ce-bef9-69707e945202",
+    "order": 0
+  },
+  {
+    "id": "e01ab0e4-8bcd-4287-9943-77c3f5264e9e",
+    "text": "Oi, you— (Something used to be scribbled here in violent anger, but it's gone now)",
+    "sinnerId": "heathcliff",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 4
+  },
+  {
+    "id": "12ed124b-9ca4-474a-8d65-a34130548e7f",
+    "text": "Let's stop bringing that up, guys.",
+    "sinnerId": "dante",
+    "logId": "5479222e-8dcf-4c8f-99e3-c0934c9804df",
+    "order": 5
+  },
+  {
+    "id": "f1e0b601-b15b-4173-9f21-a3eb26dc7219",
+    "text": "So… the Abnormality didn't hesitate to bind everyone, but… why did he keep whipping me and just me, I wonder?",
+    "sinnerId": "sinclair",
+    "logId": "a99bcbc7-f5ec-4ae0-b6db-a9914505970a",
+    "order": 0
+  },
+  {
+    "id": "930eaae6-e683-475c-82ef-bb185a9126be",
+    "text": "It appears to prefer ensnaring and whipping targets with psychological weaknesses. That must be why its whips focused that much on Sinclair.",
+    "sinnerId": "faust",
+    "logId": "a99bcbc7-f5ec-4ae0-b6db-a9914505970a",
+    "order": 1
+  },
+  {
+    "id": "46479c4d-4cdc-4c1e-9e55-70b77049ae6d",
+    "text": "Ohh~ Well, Sinclair does have very delicate sensibilities, like a sugar sculpture.",
+    "sinnerId": "hong_lu",
+    "logId": "a99bcbc7-f5ec-4ae0-b6db-a9914505970a",
+    "order": 2
+  },
+  {
+    "id": "982ac30f-2296-49a4-9b32-d2b324c266c5",
+    "text": "Thanks for the… compliment…",
+    "sinnerId": "sinclair",
+    "logId": "a99bcbc7-f5ec-4ae0-b6db-a9914505970a",
+    "order": 3
+  },
+  {
+    "id": "6175066f-a2a4-4d60-a183-440eff2fd4ba",
+    "text": "S.S.O.F.T.",
+    "sinnerId": "ryoshu",
+    "logId": "a99bcbc7-f5ec-4ae0-b6db-a9914505970a",
+    "order": 4
+  },
+  {
+    "id": "51f6d6b0-4311-48d8-b2f5-0877122de3e0",
+    "text": "Is it just me, or does Dante seem a lot less… enthusiastic when replying to Outis?",
+    "sinnerId": "rodion",
+    "logId": "d7e01a16-0ebf-42ce-bef9-69707e945202",
+    "order": 1
+  },
+  {
+    "id": "3331774b-c695-4b1d-8057-1d80dbe475bd",
+    "text": "No, no… that’s not what’s happening here! I’m very enthusiastic.",
+    "sinnerId": "dante",
+    "logId": "d7e01a16-0ebf-42ce-bef9-69707e945202",
+    "order": 2
+  },
+  {
+    "id": "045a0a51-4bf8-4fab-b8f8-a7308be9ddfe",
+    "text": "Your alienation tactics will fail to drive even the smallest wedge between the Executive Manager and myself. Your efforts are for naught.",
+    "sinnerId": "outis",
+    "logId": "d7e01a16-0ebf-42ce-bef9-69707e945202",
+    "order": 3
+  },
+  {
+    "id": "09ea2224-976c-4ff0-809f-a2c19ddfbd71",
+    "text": "No… I don’t think that’s what she’s trying to do either. Anyways, I want you to know that I really do appreciate these detailed reports…",
+    "sinnerId": "dante",
+    "logId": "d7e01a16-0ebf-42ce-bef9-69707e945202",
+    "order": 4
+  },
+  {
+    "id": "6d4b4ff8-9d44-4add-b6aa-95f74abf2823",
+    "text": "Recognition of 'Heavy breathing' was disabled in this report for the sake of legibility. However, the ‘Heavy breathing’ records of the previous report will not be removed in service of enhancing the sense of realism of the earlier report.",
+    "sinnerId": "faust",
+    "logId": "ab0826f8-f1fe-4103-844d-2afb191d9404",
+    "order": 0
+  },
+  {
+    "id": "4d2038c6-401f-4511-9d7f-3c7c08debd37",
+    "text": "Oh, yeah. The shadowy humanoid dragged Gregor in earlier… are you okay",
+    "sinnerId": "sinclair",
+    "logId": "ab0826f8-f1fe-4103-844d-2afb191d9404",
+    "order": 1
+  },
+  {
+    "id": "bb272929-161d-4e13-b595-bb41634a7330",
+    "text": "… It’s not a good time, fellas. I thought the thing was tearing me apart limb from limb.",
+    "sinnerId": "gregor",
+    "logId": "ab0826f8-f1fe-4103-844d-2afb191d9404",
+    "order": 2
+  },
+  {
+    "id": "d74ef1d8-f6ee-4325-8160-e3c5b53aaae2",
+    "text": "Easily. It is a skill to be expected from those in service of the Executive Manager.",
+    "sinnerId": "outis",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 1
+  },
+  {
+    "id": "6084f3fb-3d76-48c0-bdbd-978b92520794",
+    "text": "Yeah, I bet… Take some time to breath though, huh? There was a distracting amount of ‘Heavy breathing’ in this report.",
+    "sinnerId": "rodion",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 2
+  },
+  {
+    "id": "28eb39d9-cd63-445d-8b84-4ae8b75179d0",
+    "text": "Hmph. Must be the nervous breathing of inexperienced chicks. I, Outis, do not let such simple reports take my breath away.",
+    "sinnerId": "outis",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 3
+  },
+  {
+    "id": "ac6f9a4b-a52d-4356-93c5-40d815e900ae",
+    "text": "I-it wasn’t me. It’s been coming from that skull the moment we found it…",
+    "sinnerId": "sinclair",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 4
+  },
+  {
+    "id": "f982d97b-0e43-4a57-a581-047b5b40ceeb",
+    "text": "Hmm. It has not the lungs nor the trachea, yet it breathes. Through where does its air travel, one wonders—how utterly bizarre.",
+    "sinnerId": "yi_sang",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 5
+  },
+  {
+    "id": "6dfec642-c6f0-47a8-857c-25f27d53b443",
+    "text": "Damn… by the book as always. How'd you even bring your whole template to a voice recording?",
+    "sinnerId": "rodion",
+    "logId": "fb29f79c-4406-4296-9d62-c1e230667b70",
+    "order": 0
+  },
+  {
+    "id": "ece89a17-737e-429d-8ad2-d454d29b9471",
+    "text": "It is likely that the entity that receives the channeled blood is the Abnormality itself.",
+    "sinnerId": "faust",
+    "logId": "1414c681-5f9f-43ec-890d-66028f7597be",
+    "order": 0
+  },
+  {
+    "id": "53f0c887-6681-401d-8b17-023c594f986a",
+    "text": "As the rose is also categorized as an Abnormality, it is reasonable to assume that the entity would not necessarily follow the natural law.",
+    "sinnerId": "faust",
+    "logId": "7d75ec53-da50-4e7d-a656-ca04f0a4185d",
+    "order": 0
+  },
+  {
+    "id": "44c548d3-e76e-4869-bc27-e78fda912312",
+    "text": "Corrections to the report will be made, should we discover a sample disproving my statement.",
+    "sinnerId": "meursault",
+    "logId": "7d75ec53-da50-4e7d-a656-ca04f0a4185d",
+    "order": 1
+  },
+  {
+    "id": "c9c7a480-33ee-4df6-947c-79fd909240a6",
+    "text": "With good reason, yes. It is possible.",
+    "sinnerId": "faust",
+    "logId": "583dbba3-2bdf-4978-9730-3d4f0723a73a",
+    "order": 0
+  },
+  {
+    "id": "5b107698-c750-48b0-802a-6845c6366e5f",
+    "text": "Ooh! Then prithee, young Faust! A teeniest mistake was made here, on account of mine inexperience with this particular method of vocal recording.",
+    "sinnerId": "don_quixote",
+    "logId": "583dbba3-2bdf-4978-9730-3d4f0723a73a",
+    "order": 1
+  },
+  {
+    "id": "d60dfac5-af2f-46c5-8e98-e03f22491ac4",
+    "text": "Denied due to insufficient cause. This record will be maintained as-is.",
+    "sinnerId": "faust",
+    "logId": "583dbba3-2bdf-4978-9730-3d4f0723a73a",
+    "order": 2
+  },
+  {
+    "id": "71304cb1-83e3-4ff9-b099-bb9cfeb866b3",
+    "text": "(Following are several dozen requests from Don Quixote to re-do this recording, every single one of them followed by Faust’s messages of denial.)",
+    "sinnerId": "note",
+    "logId": "583dbba3-2bdf-4978-9730-3d4f0723a73a",
+    "order": 3
+  },
+  {
+    "id": "8982c37e-38f3-4cb0-b2b6-376a93830fbb",
+    "text": "Uh, I think the creature’s becoming exceptionally harder to slay the more blood it drinks.",
+    "sinnerId": "ishmael",
+    "logId": "7c28572b-1ce6-4333-bfe3-e35c7df9ceff",
+    "order": 0
+  },
+  {
+    "id": "c7239a6f-90ec-4669-8a58-504d3b4f7604",
+    "text": "Yeah… W-what if we just… put it down as fast as we can and not feed it any blood?",
+    "sinnerId": "sinclair",
+    "logId": "7c28572b-1ce6-4333-bfe3-e35c7df9ceff",
+    "order": 1
+  },
+  {
+    "id": "879ce83a-76f9-44ee-9b0f-8975b95f4f24",
+    "text": "Mm. However, the entity has been observed to become highly aggressive in lieu of blood.",
+    "sinnerId": "meursault",
+    "logId": "7c28572b-1ce6-4333-bfe3-e35c7df9ceff",
+    "order": 2
+  },
+  {
+    "id": "028d3a47-6a1f-4017-9cdf-247620e02e68",
+    "text": "Hm. Then we can feed it just the right amount of blood. How about that, fellas? Giving it so much blood was a pain anyway.",
+    "sinnerId": "gregor",
+    "logId": "7c28572b-1ce6-4333-bfe3-e35c7df9ceff",
+    "order": 3
+  },
+  {
+    "id": "65ff897d-c67c-4dde-b7ff-0ee368d2007e",
+    "text": "You are more persistent about this than it was previously assumed. Denied, for the twenty-sixth time.",
+    "sinnerId": "faust",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 0
+  },
+  {
+    "id": "caa1d659-e7fd-45b7-ba75-affd1953d44d",
+    "text": "Her first report was pretty good though, right? Honestly, I think that one seemed a bit more like an actual report than… the rest.",
+    "sinnerId": "ishmael",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 1
+  },
+  {
+    "id": "dddc5964-d4be-4006-b0ea-e4278f43b86b",
+    "text": "I like these kinda casual reports waaaaaay more. I can’t help but start yawning when reading Ishy or Fau’s reports, ya know? It’s too darn dry.",
+    "sinnerId": "rodion",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 2
+  },
+  {
+    "id": "ca6a79a8-ec93-4214-a66a-88f47964f10a",
+    "text": "What…? Shouldn’t we maintain a degree of professionalism when writing a report? I mean, I guess Don Quixote’s usually pretty good about her reports, but… ",
+    "sinnerId": "ishmael",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 3
+  },
+  {
+    "id": "a972c117-0c29-4426-b3ed-f3e62908e0b0",
+    "text": "Hoh? I am lost, for I fail to understand the pair of thee! The style of my records hath always been consistent, just as stars do rise at night!",
+    "sinnerId": "don_quixote",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 4
+  },
+  {
+    "id": "11895907-9cd2-4deb-ba33-dbcf25811e4b",
+    "text": "Donqui… are ya just gonna pretend it never happened?",
+    "sinnerId": "rodion",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 5
+  },
+  {
+    "id": "ff7d5fc7-0c97-451d-a7ae-bcd20d61edf7",
+    "text": " … The, uh. Your tendency to bury your head in the sand like an ostritch didn’t go away, huh? Even with your memory coming back.",
+    "sinnerId": "gregor",
+    "logId": "ea2767c0-f261-4c9a-a15f-3eafd48332ea",
+    "order": 6
+  }
+]

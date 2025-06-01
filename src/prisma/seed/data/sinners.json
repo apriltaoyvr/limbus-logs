@@ -50,5 +50,9 @@
   {
     "id": "dante",
     "name": "Dante"
+  },
+  {
+    "id": "note",
+    "name": "Note"
   }
 ]

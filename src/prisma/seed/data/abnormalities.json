@@ -1,0 +1,772 @@
+[
+  {
+    "id": "8344cd88-5493-41f2-a4ad-82a0b6c9136a",
+    "name": "Clay Dolls",
+    "classCode": "M-04-04-05-a",
+    "image": "Doomsday_Clay_Doll.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "c68434fe-1c82-43b9-8494-803dcc66fbca",
+    "name": "The Cyborgs",
+    "classCode": "T-04-10-06-a",
+    "image": "Cyborgs.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "8ea650a9-f551-4725-93a4-916494ed7807",
+    "name": "Pink Shoes",
+    "classCode": "F-04-10-13-a",
+    "image": "Pink_Shoes.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "3a25cfcc-879c-44f1-8177-783242ca71eb",
+    "name": "Neighbors and Miner Slaves",
+    "classCode": "F-05-10-18-a",
+    "image": "Neighbors.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "ea056d18-35ad-468d-87e7-0f14a26ffe0f",
+    "name": "Mimicry Inquisitors",
+    "classCode": "O-06-20-TE",
+    "image": "Mimicry_Corrosion.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "30edf778-5a53-4569-8b3b-526d7719cc4d",
+    "name": "Crawling Inquisitor Beasts",
+    "classCode": "O-02-04-13-TE",
+    "image": "Meatdogs.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "8a6286b5-d3a8-4ee6-8b49-677ab35150ee",
+    "name": "Clippity-Cloppity? Tap Away!",
+    "classCode": "T-04-10-06-b",
+    "image": "Clippity-cloppity _Tap_Away!.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "30dc3485-dd8b-452a-bcbe-3c627bc1ea0c",
+    "name": "Headchicken a.k.a. Bongy",
+    "classCode": "O`-01-11-28-a",
+    "image": "Bongy.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "8f03b920-930c-4fcb-b0af-fe4cdd75c95b",
+    "name": "Papa Bongy",
+    "classCode": "O`-01-11-28",
+    "image": "Papa_Bongy.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "3d1f75c6-282a-4584-b4d1-5298d022ed66",
+    "name": "Spiced-up Papa Bongy",
+    "classCode": "O`-01-11-28 ",
+    "image": "Papa_Bongy.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "2e1630ad-f4b4-4f1e-a174-6ae558ccd115",
+    "name": "Kqe-1j-23",
+    "classCode": "O-06-20-02",
+    "image": "KQE-1J-23.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "a70602e3-c10b-4606-9809-d733538cb013",
+    "name": "My Form Empties",
+    "classCode": "M-04-04-04",
+    "image": "My_Form_Empties.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "515d0018-9432-4b99-b39e-908f199fcd98",
+    "name": "Brazen Bull - Tearful",
+    "classCode": "M-01-11-07-tear",
+    "image": "Brass_Bull.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "dad2bfe9-a9f9-4cd0-8648-5004453e5a8f",
+    "name": "Shock Centipede",
+    "classCode": "T-02-11-04",
+    "image": "Shock_Centipede.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "904edb57-08b9-4b2c-a88a-939029b7e411",
+    "name": " Drifting Fox",
+    "classCode": "T-02-11-03",
+    "image": "Drifting_Fox.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "30601345-be2f-4c61-b2f3-9eeb40336324",
+    "name": "So That No One Will Cry",
+    "classCode": "T-04-11-20",
+    "image": "So_That_No_One_Will_Cry.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "35f17a3c-9054-4448-afc9-c5621e968ced",
+    "name": "Headless Ichthys",
+    "classCode": "O-02-11-26",
+    "image": "Headless_Ichthys.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "be3aad69-6a93-4a97-ae57-468429feb11a",
+    "name": "Ebony Queen's Apple",
+    "classCode": "F-04-03-04",
+    "image": "Ebony_Queens_Apple.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "116297b7-7910-4f7c-9f14-5980bac004a2",
+    "name": "Golden / False Apple",
+    "classCode": "O-02-04-06",
+    "image": "Apples.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "dbe2cb4c-f793-497b-9189-47353894b16f",
+    "name": "Faelantern",
+    "classCode": "F-01-11-15",
+    "image": "Faelantern.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "79ad993b-2515-4c6c-af36-f183076e4140",
+    "name": "Wayward Passenger",
+    "classCode": "T-02-21-07",
+    "image": "Wayward Passenger.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "42ba8c3e-ddd6-41c1-8a48-1e5f7bb12596",
+    "name": "Steam Transport Machine",
+    "classCode": "O-06-21-16",
+    "image": "Steam Transport Machine.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "1c7f84d6-49ec-4a85-ba59-16a2b07c4c29",
+    "name": "Sign of Roses",
+    "classCode": "O-04-21-22",
+    "image": "Sign of Roses.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "facf1ffd-cdeb-4ff4-b194-a33296d3f1fb",
+    "name": "Dream-Devouring Siltcurrent",
+    "classCode": "T-02-21-06",
+    "image": "Dream-Devouring_Siltcurrent.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "2e71c17e-4bdc-416f-bf84-ef5ebe67ac82",
+    "name": "Skin Prophet",
+    "classCode": "T-03-21-09",
+    "image": "Skin_Prophet.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "d360a72e-14c4-4dbb-9ebe-0e41f77902c6",
+    "name": "Ambling Pearl",
+    "classCode": "O-02-21-11",
+    "image": "Ambling_Pearl.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "2518e7ab-41c5-4fdb-9948-51be4aafc13c",
+    "name": "Ardor Blossom Moth",
+    "classCode": "O-01-20-07",
+    "image": "Ardor_Blossom_Moth.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "1422834c-3df3-468c-9e05-b5e0532c2962",
+    "name": "Drenched Gossypium",
+    "classCode": "O-04-20-11",
+    "image": "Drenched_Gossypium.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "b76fc0ba-c44d-466b-b2aa-fd13df946fd2",
+    "name": "Spiral of Contempt",
+    "classCode": "T-03-20-04",
+    "image": "Spiral_of_Contempt.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "e4448bd6-826a-40d2-83a2-a91fa5c15c01",
+    "name": "Hindley, The Reaved Lamenter",
+    "classCode": "??-??-??-??",
+    "image": "Hindley.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "351bc120-8d7f-45be-94b7-9c1fc686e12b",
+    "name": "Heathcliff, The Heartbroken ",
+    "classCode": "\nUNDEF.",
+    "image": "Heathcliff_The_Heartbroken.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "8403bfda-0f0a-4296-8f0b-618d1dd265c7",
+    "name": "Peccatulum Superbiae",
+    "classCode": "S-08-11-01",
+    "image": "Peccatulum_Superbiae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "aa280ff8-885f-49c6-8b39-675db310837d",
+    "name": "Peccatulum Irae",
+    "classCode": "S-08-04-02",
+    "image": "Peccatulum_Irae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "254ac7b4-6135-45e3-820e-712a1d22041f",
+    "name": "Peccatulum Morositatis",
+    "classCode": "S-08-10-01",
+    "image": "Peccatulum_Morositatis.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "832ee537-7956-4a6e-b781-61fea90246ff",
+    "name": "Peccatulum Luxuriae",
+    "classCode": "S-08-11-02",
+    "image": "Peccatulum_Luxuriae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "a8fad33a-aeb5-4094-90b8-3b7d7fcd57b4",
+    "name": "Peccatulum Gulae",
+    "classCode": "S-08-04-01",
+    "image": "Peccatulum_Gulae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "4fe92c08-9a97-47a1-aab2-f58252446832",
+    "name": "Peccatulum Acediae",
+    "classCode": "S-08-04-03",
+    "image": "Peccatulum_Acediae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "73706c58-9449-42b0-9ea9-ec2212f7757f",
+    "name": "The Time Ripper",
+    "classCode": "UNDEF.",
+    "image": "Time_Ripper.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "a5f42d74-1dba-4572-b70b-18291b53561d",
+    "name": "Peccatulum Invidiae",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Invidiae.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "8317f4b0-df8c-4351-a9ed-ee23b6d06eb2",
+    "name": "The King in Binds",
+    "classCode": "O-01-20-12",
+    "image": "King_In_Binds.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "f7b5088f-976e-4577-8999-4d87c6ad12c8",
+    "name": "Portrait of a Certain Day",
+    "classCode": "O-02-20-05",
+    "image": "Portrait_of_a_Certain_Day.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "1a4de620-485e-49c7-a30d-cffc4e92439a",
+    "name": "Dreaming Electric Sheep",
+    "classCode": "F-01-20-08",
+    "image": "Dreaming_Electric_Sheep.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "68b3f3dd-eb74-4e3e-a28e-a61bd367494c",
+    "name": "Cassetti",
+    "classCode": "UNDEF.",
+    "image": "Cassetti.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "4af6b80d-b583-4a28-9647-f62a9ab2a869",
+    "name": "Bloodbag Prosthetic Fixer",
+    "classCode": "UNDEF.",
+    "image": "Bloodbag_Prosthetic_Fixer.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "f652c2f7-e729-49a2-a80f-2c7737a9f08e",
+    "name": "Craving Bloodbag Passenger",
+    "classCode": "UNDEF.",
+    "image": "Craving_Bloodbag_Passenger.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "1feae8ad-74d7-423c-81a9-0bf2e422e38d",
+    "name": "Merciless Bloodbag Cleanup Agent",
+    "classCode": "UNDEF.",
+    "image": "Merciless_Bloodbag_Cleanup_Agent.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "a03d78d6-2042-4aee-95e0-d95423b5395f",
+    "name": "Sasha",
+    "classCode": "UNDEF.",
+    "image": "Sasha.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "70edf445-476f-47b7-9f8f-538d0e376cc7",
+    "name": "Peccatulum Gulae Class 2",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Gulae_2.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:34:00.266Z"
+  },
+  {
+    "id": "9c349940-0caf-49c1-a2e9-c8e986dce6a6",
+    "name": "Peccatulum Irae Class 3",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Irae _Idle_3.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:34:00.355Z"
+  },
+  {
+    "id": "a4cd6dd9-33bb-469c-b3a4-aeb8b5082490",
+    "name": "Peccatulum Pigritiae Class 2",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Acediae_2.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:34:00.425Z"
+  },
+  {
+    "id": "d00723a9-e1a3-46f9-8439-16794e5e536f",
+    "name": "Peccatulum Irae Class 2",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Irae_2.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:34:00.503Z"
+  },
+  {
+    "id": "7ddf167d-ecad-48e0-b4f3-1f686c2f2422",
+    "name": "Lobotomy E.G.O::Sunshower - Dongbaek",
+    "classCode": "UNDEF.",
+    "image": "Dongbaek_Sunshower.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:40:57.500Z"
+  },
+  {
+    "id": "ebef3354-3bba-4c23-a2c4-2f43dc96811b",
+    "name": "Der Fluchschütze",
+    "classCode": "F-01-16-13",
+    "image": "Der_Fluchschutze.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": 4,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:42:12.144Z"
+  },
+  {
+    "id": "64008fdc-46cb-43cc-b906-6bc95f80cd81",
+    "name": "Alleyway Watchdog",
+    "classCode": "O-02-10-11",
+    "image": "Alleyway_Watchdog.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": 3,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:42:44.974Z"
+  },
+  {
+    "id": "d56a6469-e1ce-484a-9a0f-3dc69e503c11",
+    "name": "Doomsday Calendar",
+    "classCode": "M-04-04-05",
+    "image": "Doomsday_Calendar.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": 8,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:42:51.948Z"
+  },
+  {
+    "id": "45c330c5-324f-4758-a0e2-2930c75c8dc5",
+    "name": "Blubbering Toad",
+    "classCode": "T-01-23-04",
+    "image": "Blubbering_Toad.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": 1,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:43:40.475Z"
+  },
+  {
+    "id": "a689bb7f-64f1-44bf-921f-4197e54aa244",
+    "name": "Fairy Queen",
+    "classCode": "F-04-20-83",
+    "image": "Fairy_Queen.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": 4,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:44:14.213Z"
+  },
+  {
+    "id": "8cb697f6-da19-4e5c-bf2a-ecb38be6ac85",
+    "name": "Fairy-Long-Legs",
+    "classCode": "F-01-11-15",
+    "image": "Fairy-Long-Legs.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": 3,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:44:35.277Z"
+  },
+  {
+    "id": "0e997423-2674-4ec1-8c1d-847016b13e3f",
+    "name": "Fairy Gentleman",
+    "classCode": "F-01-11-12",
+    "image": "Fairy_Gentleman.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": 3,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:44:35.342Z"
+  },
+  {
+    "id": "06571b69-ab2b-4044-ad1b-f10f1a4d4d94",
+    "name": "Wriggling & Slithering Inquisitors",
+    "classCode": "O-02-11-10-TE",
+    "image": "Snake_Inquisitors.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": 3,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:44:53.704Z"
+  },
+  {
+    "id": "78509ff2-50a8-4506-a75d-f3bdbfcde00e",
+    "name": "Hurting Teddy Bear",
+    "classCode": "T-04-16-02",
+    "image": "Hurting_Teddy_Bear.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "b8cb40a5-c0da-4c0c-a385-9170789c5c23",
+    "name": "Rose Hunter",
+    "classCode": "F-01-16-10",
+    "image": "Rose_Hunter.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "adddc824-2adc-4156-9d64-61dbde66cf21",
+    "name": "Sleeping Bag of a Bygone Day",
+    "classCode": "T-03-16-15",
+    "image": "Sleeping_Bag_of_a_Bygone_Day.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "3a5489f6-f0bd-4d5c-81a0-a1310330a9c4",
+    "name": "Four-hundred Roses",
+    "classCode": "F-04-16-04",
+    "image": "Four-hundred_Roses.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "982a4864-ccf0-4a3d-87f6-e95f7b84e99d",
+    "name": "Rose Corrosions",
+    "classCode": "F-04-16-04-TE ",
+    "image": "Rose_Corrosion.png",
+    "riskLevel": "WAW",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-05-31T07:43:21.183Z"
+  },
+  {
+    "id": "586d5f1a-9618-4960-9688-37f00a37962e",
+    "name": "Distorted Hohenheim",
+    "classCode": "UNDEF.",
+    "image": "Distorted_Hohenheim.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:01:16.856Z"
+  },
+  {
+    "id": "2cfcce65-3554-4913-8ecf-e7e5e80976b1",
+    "name": "Kromer",
+    "classCode": "UNDEF.",
+    "image": "Kromer.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:27:22.128Z"
+  },
+  {
+    "id": "90d91572-a8ff-4004-b51b-0a7c79e1eef1",
+    "name": "Kromer, The Dreamer of Human Wholeness",
+    "classCode": "UNDEF.",
+    "image": "Kromer_the_Dreamer_of_Human_Wholeness.png",
+    "riskLevel": "HE",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:27:22.204Z"
+  },
+  {
+    "id": "50052c4f-5281-4b97-885a-743078ca963c",
+    "name": "Distorted Bamboo-hatted Kim",
+    "classCode": "UNDEF.",
+    "image": "Distorted_Bamboo-hatted_Kim.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.378Z"
+  },
+  {
+    "id": "ff07ed82-1bba-4027-b366-0f030e0f1c91",
+    "name": "Dongbaek E.G.O::Spicebush",
+    "classCode": "UNDEF.",
+    "image": "Dongbaek_EGO.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.515Z"
+  },
+  {
+    "id": "9073f5ae-d3b3-4b8b-9a33-41b547cef669",
+    "name": "Dongrang E.G.O::Farmwatch",
+    "classCode": "UNDEF.",
+    "image": "Effloresced_E.G.O_Farmwatch.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.582Z"
+  },
+  {
+    "id": "3ad2117b-f0f1-4f23-90d7-60e05d492c25",
+    "name": "Effloresced E.G.O::GasHarpoon",
+    "classCode": "UNDEF.",
+    "image": "AhabEGO.png",
+    "riskLevel": "UNKNOWN",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.646Z"
+  },
+  {
+    "id": "f3aaea2b-5279-427f-a776-9dd75cb31d27",
+    "name": "Peccatulum Pigritiae Class 3",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Pigritiae_Class_3.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.817Z"
+  },
+  {
+    "id": "6a0fa63a-bc33-409b-810e-834f8e99a313",
+    "name": "Peccatulum Morositatis Class 3",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Morositatis_Class_3.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:48.947Z"
+  },
+  {
+    "id": "6e0e1e98-7f21-4abb-89b0-6ca05f440972",
+    "name": "Peccatulum Superbiae Class 2",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Superbiae_Class_2.png",
+    "riskLevel": "ZAYIN",
+    "riskLevelNumber": 0,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:49.083Z"
+  },
+  {
+    "id": "c9785081-630c-4886-bec9-f2662dc41e54",
+    "name": "Dongrang, Who Denies All",
+    "classCode": "UNDEF.",
+    "image": "Dongrang,_Who_Denies_All.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T03:33:49.284Z"
+  },
+  {
+    "id": "1114ca33-53e2-478c-a64f-f8a28b55b530",
+    "name": "Peccatulum Morositatis Class 2",
+    "classCode": "??-??-??-??",
+    "image": "Peccatulum_Morositatis_2.png",
+    "riskLevel": "TETH",
+    "riskLevelNumber": null,
+    "createdAt": "2025-05-31T07:42:34.419Z",
+    "updatedAt": "2025-06-01T04:34:00.181Z"
+  }
+]

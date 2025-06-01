@@ -4,17 +4,18 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URI")
+  url      = env("DATABASE_URI_DEV")
 }
 
 model abnormalities {
-  name            String        @id(map: "abnormality_pkey") @default("Abnormality")
-  classCode       String?       @map("class_code")
+  id              String        @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name            String        @default("Abnormality")
+  classCode       String?       @default("UNDEF.") @map("class_code")
+  image           String?
   riskLevel       RiskLevelEnum @default(ZAYIN) @map("risk_level")
   riskLevelNumber Int?          @default(0) @map("risk_level_number")
-  image           String?
-  chapter         Int?
-  desc            String?
+  createdAt       DateTime?     @default(now()) @map("created_at") @db.Timestamp(6)
+  updatedAt       DateTime?     @default(now()) @map("updated_at") @db.Timestamp(6)
   logs            logs[]
 
   @@map("Abnormalities")
@@ -25,22 +26,22 @@ model comments {
   text     String
   sinnerId String  @map("sinner_id")
   logId    String  @map("log_id") @db.Uuid
+  logs     logs    @relation(fields: [logId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comments_log_id_fkey")
+  sinner   sinners @relation(fields: [sinnerId], references: [id], onUpdate: NoAction, map: "comments_sinner_id_fkey")
   order    Int?    @default(0)
-  logs     logs    @relation(fields: [logId], references: [id], onDelete: NoAction, onUpdate: NoAction)
-  sinner   sinners @relation(fields: [sinnerId], references: [id], onUpdate: NoAction)
 
   @@map("Comments")
 }
 
 model logs {
-  id               String        @id(map: "log_pkey") @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  observationLevel Int           @default(0) @map("observation_level")
+  id               String         @id(map: "log_pkey") @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  observationLevel Int            @default(0) @map("observation_level")
   text             String
-  sinnerId         String        @map("sinner_id")
-  abnormalityName  String        @map("abnormality_name")
-  abnormality      abnormalities @relation(fields: [abnormalityName], references: [name], onDelete: NoAction, onUpdate: NoAction)
+  sinnerId         String         @map("sinner_id")
+  abnormalityId    String?        @map("abnormality_id") @db.Uuid
   comments         comments[]
-  sinners          sinners       @relation(fields: [sinnerId], references: [id], onUpdate: NoAction)
+  abnormality      abnormalities? @relation(fields: [abnormalityId], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "logs_abnormality_id_fkey")
+  sinner           sinners        @relation(fields: [sinnerId], references: [id], onUpdate: NoAction, map: "logs_sinner_id_fkey")
 
   @@map("Logs")
 }
